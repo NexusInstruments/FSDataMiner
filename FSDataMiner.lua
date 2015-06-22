@@ -30,6 +30,8 @@ local tDefaultSettings = {
   continents = {
   },
   itemTypes = {
+  },
+  itemTypeExamples = {
   }
 }
 
@@ -317,10 +319,14 @@ function FSDataMiner:PreLoadData()
     end
   end
 
+  if not self.settings.itemTypeExamples then
+    self.settings.itemTypeExamples = {}
+  end
   for i=1,100000 do
     local item = Item.GetDataFromId(i)
     if item ~= nil then
       self:AddItemType(item)
+      self.settings.itemTypeExamples[item:GetItemType()] = item:GetName()
     end
   end
 end

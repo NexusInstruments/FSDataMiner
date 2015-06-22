@@ -1,0 +1,2358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <N K="zones" T="t">
+        <N F="1" T="t">
+            <N K="name" T="s" V="Northern Wilds"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="2" T="t">
+            <N K="name" T="s" V="Whitevale"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="4" T="t">
+            <N K="name" T="s" V="Housing Neighborhood"/>
+            <N K="continentId" T="n" V="7"/>
+        </N>
+        <N F="5" T="t">
+            <N K="name" T="s" V="Celestion"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="6" T="t">
+            <N K="name" T="s" V="Auroria"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="7" T="t">
+            <N K="name" T="s" V="Ellevar"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="8" T="t">
+            <N K="name" T="s" V="Borellian Cluster"/>
+            <N K="continentId" T="n" V="9"/>
+        </N>
+        <N F="10" T="t">
+            <N K="name" T="s" V="Wildwood"/>
+            <N K="continentId" T="n" V="10"/>
+        </N>
+        <N F="12" T="t">
+            <N K="name" T="s" V="Crimson Isle"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="14" T="t">
+            <N K="name" T="s" V="Thayd"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="15" T="t">
+            <N K="name" T="s" V="Deradune"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="16" T="t">
+            <N K="name" T="s" V="Galeras"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="17" T="t">
+            <N K="name" T="s" V="Algoroc"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="18" T="t">
+            <N K="name" T="s" V="Initiate Island"/>
+            <N K="continentId" T="n" V="12"/>
+        </N>
+        <N F="19" T="t">
+            <N K="name" T="s" V="Stormtalon&apos;s Lair"/>
+            <N K="continentId" T="n" V="13"/>
+        </N>
+        <N F="20" T="t">
+            <N K="name" T="s" V="Skullcano Island"/>
+            <N K="continentId" T="n" V="14"/>
+        </N>
+        <N F="21" T="t">
+            <N K="name" T="s" V="Ruins of Kel Voreth"/>
+            <N K="continentId" T="n" V="15"/>
+        </N>
+        <N F="22" T="t">
+            <N K="name" T="s" V="Levian Bay"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="23" T="t">
+            <N K="name" T="s" V="The Siege of Tempest Refuge"/>
+            <N K="continentId" T="n" V="16"/>
+        </N>
+        <N F="24" T="t">
+            <N K="name" T="s" V="The Malgrave Trail"/>
+            <N K="continentId" T="n" V="17"/>
+        </N>
+        <N F="25" T="t">
+            <N K="name" T="s" V="Shiphand: Salvage Rights"/>
+            <N K="continentId" T="n" V="18"/>
+        </N>
+        <N F="26" T="t">
+            <N K="name" T="s" V="Wilderrun"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="27" T="t">
+            <N K="name" T="s" V="Everstar Grove"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="28" T="t">
+            <N K="name" T="s" V="Farside"/>
+            <N K="continentId" T="n" V="19"/>
+        </N>
+        <N F="29" T="t">
+            <N K="name" T="s" V="Algoroc Neighborhood"/>
+            <N K="continentId" T="n" V="20"/>
+        </N>
+        <N F="31" T="t">
+            <N K="name" T="s" V="The Gambler&apos;s Ruin"/>
+            <N K="continentId" T="n" V="22"/>
+        </N>
+        <N F="32" T="t">
+            <N K="name" T="s" V="War of the Wilds"/>
+            <N K="continentId" T="n" V="23"/>
+        </N>
+        <N F="33" T="t">
+            <N K="name" T="s" V="The Hycrest Insurrection"/>
+            <N K="continentId" T="n" V="24"/>
+        </N>
+        <N F="34" T="t">
+            <N K="name" T="s" V="Algoroc Adventure"/>
+            <N K="continentId" T="n" V="25"/>
+        </N>
+        <N F="35" T="t">
+            <N K="name" T="s" V="Crimelords of Whitevale"/>
+            <N K="continentId" T="n" V="26"/>
+        </N>
+        <N F="36" T="t">
+            <N K="name" T="s" V="Riot in the Void"/>
+            <N K="continentId" T="n" V="27"/>
+        </N>
+        <N F="37" T="t">
+            <N K="name" T="s" V="Ellevar Adventure"/>
+            <N K="continentId" T="n" V="28"/>
+        </N>
+        <N F="40" T="t">
+            <N K="name" T="s" V="Isle of the Keepers"/>
+            <N K="continentId" T="n" V="31"/>
+        </N>
+        <N F="41" T="t">
+            <N K="name" T="s" V="Northern Wastes"/>
+            <N K="continentId" T="n" V="32"/>
+        </N>
+        <N F="42" T="t">
+            <N K="name" T="s" V="Malgrave"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="46" T="t">
+            <N K="name" T="s" V="Derelict Silo E23"/>
+            <N K="continentId" T="n" V="19"/>
+        </N>
+        <N F="47" T="t">
+            <N K="name" T="s" V="Pellicane Test World"/>
+            <N K="continentId" T="n" V="34"/>
+        </N>
+        <N F="48" T="t">
+            <N K="name" T="s" V="Apex-9"/>
+            <N K="continentId" T="n" V="9"/>
+        </N>
+        <N F="49" T="t">
+            <N K="name" T="s" V="Halon Ring Delta"/>
+            <N K="continentId" T="n" V="9"/>
+        </N>
+        <N F="50" T="t">
+            <N K="name" T="s" V="Asteroid 3C48"/>
+            <N K="continentId" T="n" V="19"/>
+        </N>
+        <N F="53" T="t">
+            <N K="name" T="s" V="Southern Grimvault"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="57" T="t">
+            <N K="name" T="s" V="The Elder Vault"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="58" T="t">
+            <N K="name" T="s" V="Security Sublevel Sigma"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="59" T="t">
+            <N K="name" T="s" V="Engineering Sublevel Theta"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="60" T="t">
+            <N K="name" T="s" V="Housing Skymap"/>
+            <N K="continentId" T="n" V="36"/>
+        </N>
+        <N F="63" T="t">
+            <N K="name" T="s" V="Shiphand: Outpost M-13"/>
+            <N K="continentId" T="n" V="38"/>
+        </N>
+        <N F="64" T="t">
+            <N K="name" T="s" V="The Steady Traveler"/>
+            <N K="continentId" T="n" V="38"/>
+        </N>
+        <N F="65" T="t">
+            <N K="name" T="s" V="Asteroid M-13"/>
+            <N K="continentId" T="n" V="38"/>
+        </N>
+        <N F="66" T="t">
+            <N K="name" T="s" V="PvP Arena"/>
+            <N K="continentId" T="n" V="39"/>
+        </N>
+        <N F="67" T="t">
+            <N K="name" T="s" V="Outpost M-13"/>
+            <N K="continentId" T="n" V="38"/>
+        </N>
+        <N F="68" T="t">
+            <N K="name" T="s" V="Abandoned Space Mine"/>
+            <N K="continentId" T="n" V="38"/>
+        </N>
+        <N F="69" T="t">
+            <N K="name" T="s" V="Walatiki Temple"/>
+            <N K="continentId" T="n" V="40"/>
+        </N>
+        <N F="70" T="t">
+            <N K="name" T="s" V="Western Grimvault"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="71" T="t">
+            <N K="name" T="s" V="Blighthaven"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="72" T="t">
+            <N K="name" T="s" V="Skullcano: Molten Cavern"/>
+            <N K="continentId" T="n" V="14"/>
+        </N>
+        <N F="73" T="t">
+            <N K="name" T="s" V="Skullcano: Golden Cave"/>
+            <N K="continentId" T="n" V="14"/>
+        </N>
+        <N F="74" T="t">
+            <N K="name" T="s" V="Bio-Dome 3"/>
+            <N K="continentId" T="n" V="19"/>
+        </N>
+        <N F="75" T="t">
+            <N K="name" T="s" V="Bio-Dome 4"/>
+            <N K="continentId" T="n" V="19"/>
+        </N>
+        <N F="76" T="t">
+            <N K="name" T="s" V="Alpha Complex"/>
+            <N K="continentId" T="n" V="19"/>
+        </N>
+        <N F="77" T="t">
+            <N K="name" T="s" V="Randyland"/>
+            <N K="continentId" T="n" V="41"/>
+        </N>
+        <N F="78" T="t">
+            <N K="name" T="s" V="Illium"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="79" T="t">
+            <N K="name" T="s" V="Expedition: Graylight Grapplefest"/>
+            <N K="continentId" T="n" V="42"/>
+        </N>
+        <N F="80" T="t">
+            <N K="name" T="s" V="Expedition: Kel Voreth Underforge"/>
+            <N K="continentId" T="n" V="43"/>
+        </N>
+        <N F="81" T="t">
+            <N K="name" T="s" V="Expedition: The Melting Pot"/>
+            <N K="continentId" T="n" V="44"/>
+        </N>
+        <N F="82" T="t">
+            <N K="name" T="s" V="Expedition: Mayday"/>
+            <N K="continentId" T="n" V="45"/>
+        </N>
+        <N F="83" T="t">
+            <N K="name" T="s" V="Expedition: Creepy Cave"/>
+            <N K="continentId" T="n" V="46"/>
+        </N>
+        <N F="84" T="t">
+            <N K="name" T="s" V="Expedition: Spider Tomb"/>
+            <N K="continentId" T="n" V="47"/>
+        </N>
+        <N F="85" T="t">
+            <N K="name" T="s" V="Sanctuary of the Swordmaiden"/>
+            <N K="continentId" T="n" V="48"/>
+        </N>
+        <N F="87" T="t">
+            <N K="name" T="s" V="Walker&apos;s Landing"/>
+            <N K="continentId" T="n" V="19"/>
+        </N>
+        <N F="88" T="t">
+            <N K="name" T="s" V="Virtue&apos;s Landing"/>
+            <N K="continentId" T="n" V="19"/>
+        </N>
+        <N F="89" T="t">
+            <N K="name" T="s" V="Coralus"/>
+            <N K="continentId" T="n" V="49"/>
+        </N>
+        <N F="90" T="t">
+            <N K="name" T="s" V="Shiphand: Void Hunter"/>
+            <N K="continentId" T="n" V="50"/>
+        </N>
+        <N F="91" T="t">
+            <N K="name" T="s" V="The Enigmatic Tryst"/>
+            <N K="continentId" T="n" V="50"/>
+        </N>
+        <N F="92" T="t">
+            <N K="name" T="s" V="Zarkhov&apos;s Shade"/>
+            <N K="continentId" T="n" V="50"/>
+        </N>
+        <N F="93" T="t">
+            <N K="name" T="s" V="Shiphand: Rage Logic"/>
+            <N K="continentId" T="n" V="51"/>
+        </N>
+        <N F="94" T="t">
+            <N K="name" T="s" V="Asteroid DU-23"/>
+            <N K="continentId" T="n" V="51"/>
+        </N>
+        <N F="95" T="t">
+            <N K="name" T="s" V="The Positron"/>
+            <N K="continentId" T="n" V="51"/>
+        </N>
+        <N F="96" T="t">
+            <N K="name" T="s" V="Rage Factory"/>
+            <N K="continentId" T="n" V="51"/>
+        </N>
+        <N F="97" T="t">
+            <N K="name" T="s" V="Axiom&apos;s Control Room"/>
+            <N K="continentId" T="n" V="51"/>
+        </N>
+        <N F="98" T="t">
+            <N K="name" T="s" V="The Datascape"/>
+            <N K="continentId" T="n" V="52"/>
+        </N>
+        <N F="99" T="t">
+            <N K="name" T="s" V="Halls of the Bloodsworn"/>
+            <N K="continentId" T="n" V="53"/>
+        </N>
+        <N F="100" T="t">
+            <N K="name" T="s" V="PvP: Warplot Battleground"/>
+            <N K="continentId" T="n" V="54"/>
+        </N>
+        <N F="101" T="t">
+            <N K="name" T="s" V="PvP: Warplot Sky Map"/>
+            <N K="continentId" T="n" V="55"/>
+        </N>
+        <N F="102" T="t">
+            <N K="name" T="s" V="PvP: Cannon"/>
+            <N K="continentId" T="n" V="56"/>
+        </N>
+        <N F="103" T="t">
+            <N K="name" T="s" V="PvP: Sabotage"/>
+            <N K="continentId" T="n" V="57"/>
+        </N>
+        <N F="104" T="t">
+            <N K="name" T="s" V="The Oculus"/>
+            <N K="continentId" T="n" V="52"/>
+        </N>
+        <N F="105" T="t">
+            <N K="name" T="s" V="Halls of the Infinite Mind"/>
+            <N K="continentId" T="n" V="52"/>
+        </N>
+        <N F="106" T="t">
+            <N K="name" T="s" V="Upper Infinite Generator Core"/>
+            <N K="continentId" T="n" V="52"/>
+        </N>
+        <N F="107" T="t">
+            <N K="name" T="s" V="Lower Infinite Generator Core"/>
+            <N K="continentId" T="n" V="52"/>
+        </N>
+        <N F="108" T="t">
+            <N K="name" T="s" V="Earthen Biomes"/>
+            <N K="continentId" T="n" V="52"/>
+        </N>
+        <N F="109" T="t">
+            <N K="name" T="s" V="Glacial Fortress"/>
+            <N K="continentId" T="n" V="52"/>
+        </N>
+        <N F="110" T="t">
+            <N K="name" T="s" V="Obsidian Wastes"/>
+            <N K="continentId" T="n" V="52"/>
+        </N>
+        <N F="111" T="t">
+            <N K="name" T="s" V="Contemplations on Perspective Alpha"/>
+            <N K="continentId" T="n" V="52"/>
+        </N>
+        <N F="112" T="t">
+            <N K="name" T="s" V="Contemplations on Perspective Delta"/>
+            <N K="continentId" T="n" V="52"/>
+        </N>
+        <N F="113" T="t">
+            <N K="name" T="s" V="Contemplations on Perspective Beta"/>
+            <N K="continentId" T="n" V="52"/>
+        </N>
+        <N F="114" T="t">
+            <N K="name" T="s" V="Limbo Infomatrix"/>
+            <N K="continentId" T="n" V="52"/>
+        </N>
+        <N F="115" T="t">
+            <N K="name" T="s" V="Corrupted Assembly Corridor"/>
+            <N K="continentId" T="n" V="52"/>
+        </N>
+        <N F="116" T="t">
+            <N K="name" T="s" V="Volatility Lattice"/>
+            <N K="continentId" T="n" V="52"/>
+        </N>
+        <N F="117" T="t">
+            <N K="name" T="s" V="Elemental Vortex Alpha"/>
+            <N K="continentId" T="n" V="52"/>
+        </N>
+        <N F="118" T="t">
+            <N K="name" T="s" V="Elemental Vortex Beta"/>
+            <N K="continentId" T="n" V="52"/>
+        </N>
+        <N F="119" T="t">
+            <N K="name" T="s" V="Elemental Vortex Delta"/>
+            <N K="continentId" T="n" V="52"/>
+        </N>
+        <N F="120" T="t">
+            <N K="name" T="s" V="Quantum Vortex"/>
+            <N K="continentId" T="n" V="52"/>
+        </N>
+        <N F="121" T="t">
+            <N K="name" T="s" V="Shiphand: Space Madness"/>
+            <N K="continentId" T="n" V="58"/>
+        </N>
+        <N F="124" T="t">
+            <N K="name" T="s" V="Isle of Eternity"/>
+            <N K="continentId" T="n" V="31"/>
+        </N>
+        <N F="131" T="t">
+            <N K="name" T="s" V="Crimson Badlands"/>
+            <N K="continentId" T="n" V="61"/>
+        </N>
+        <N F="132" T="t">
+            <N K="name" T="s" V="Shiphand: The Gauntlet"/>
+            <N K="continentId" T="n" V="62"/>
+        </N>
+        <N F="133" T="t">
+            <N K="name" T="s" V="Gauntlet Shuttle"/>
+            <N K="continentId" T="n" V="62"/>
+        </N>
+        <N F="134" T="t">
+            <N K="name" T="s" V="The Gauntlet"/>
+            <N K="continentId" T="n" V="62"/>
+        </N>
+        <N F="135" T="t">
+            <N K="name" T="s" V="Maximum Security"/>
+            <N K="continentId" T="n" V="27"/>
+        </N>
+        <N F="137" T="t">
+            <N K="name" T="s" V="Exo-Lab Prime"/>
+            <N K="continentId" T="n" V="63"/>
+        </N>
+        <N F="138" T="t">
+            <N K="name" T="s" V="Exo-Lab X39"/>
+            <N K="continentId" T="n" V="64"/>
+        </N>
+        <N F="139" T="t">
+            <N K="name" T="s" V="The Hidden Dark"/>
+            <N K="continentId" T="n" V="65"/>
+        </N>
+        <N F="141" T="t">
+            <N K="name" T="s" V="Galactic Observer"/>
+            <N K="continentId" T="n" V="60"/>
+        </N>
+        <N F="142" T="t">
+            <N K="name" T="s" V="Galactic Observer"/>
+            <N K="continentId" T="n" V="60"/>
+        </N>
+        <N F="143" T="t">
+            <N K="name" T="s" V="Galactic Observer"/>
+            <N K="continentId" T="n" V="60"/>
+        </N>
+        <N F="144" T="t">
+            <N K="name" T="s" V="The Steel Serpent"/>
+            <N K="continentId" T="n" V="60"/>
+        </N>
+        <N F="148" T="t">
+            <N K="name" T="s" V="Genetic Archives - Act 1"/>
+            <N K="continentId" T="n" V="67"/>
+        </N>
+        <N F="149" T="t">
+            <N K="name" T="s" V="Genetic Archives - Act 2"/>
+            <N K="continentId" T="n" V="67"/>
+        </N>
+        <N F="150" T="t">
+            <N K="name" T="s" V="Genetic Archives - Act 3"/>
+            <N K="continentId" T="n" V="67"/>
+        </N>
+        <N F="151" T="t">
+            <N K="name" T="s" V="The Gambler&apos;s Ruin"/>
+            <N K="continentId" T="n" V="22"/>
+        </N>
+        <N F="153" T="t">
+            <N K="name" T="s" V="The Golden Fields"/>
+            <N K="continentId" T="n" V="68"/>
+        </N>
+        <N F="155" T="t">
+            <N K="name" T="s" V="The Defile"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="156" T="t">
+            <N K="name" T="s" V="The Gambler&apos;s Ruin"/>
+            <N K="continentId" T="n" V="22"/>
+        </N>
+        <N F="157" T="t">
+            <N K="name" T="s" V="The Gambler&apos;s Ruin"/>
+            <N K="continentId" T="n" V="22"/>
+        </N>
+        <N F="158" T="t">
+            <N K="name" T="s" V="The Gambler&apos;s Ruin"/>
+            <N K="continentId" T="n" V="22"/>
+        </N>
+        <N F="159" T="t">
+            <N K="name" T="s" V="The Gambler&apos;s Ruin"/>
+            <N K="continentId" T="n" V="22"/>
+        </N>
+        <N F="160" T="t">
+            <N K="name" T="s" V="The Lobby"/>
+            <N K="continentId" T="n" V="69"/>
+        </N>
+        <N F="162" T="t">
+            <N K="name" T="s" V="Elemental Hospital"/>
+            <N K="continentId" T="n" V="69"/>
+        </N>
+        <N F="163" T="t">
+            <N K="name" T="s" V="Cuboar Coterie"/>
+            <N K="continentId" T="n" V="69"/>
+        </N>
+        <N F="164" T="t">
+            <N K="name" T="s" V="Lost and Found Department"/>
+            <N K="continentId" T="n" V="69"/>
+        </N>
+        <N F="165" T="t">
+            <N K="name" T="s" V="HMS Phineas"/>
+            <N K="continentId" T="n" V="69"/>
+        </N>
+        <N F="167" T="t">
+            <N K="name" T="s" V="The Prototentiary"/>
+            <N K="continentId" T="n" V="69"/>
+        </N>
+        <N F="169" T="t">
+            <N K="name" T="s" V="The Squirgnasium"/>
+            <N K="continentId" T="n" V="69"/>
+        </N>
+        <N F="170" T="t">
+            <N K="name" T="s" V="Ultimate Protogames 010"/>
+            <N K="continentId" T="n" V="69"/>
+        </N>
+        <N F="173" T="t">
+            <N K="name" T="s" V="Waste Management Facility"/>
+            <N K="continentId" T="n" V="69"/>
+        </N>
+        <N F="174" T="t">
+            <N K="name" T="s" V="Ultimate Protogames 014"/>
+            <N K="continentId" T="n" V="69"/>
+        </N>
+        <N F="176" T="t">
+            <N K="name" T="s" V="Ultimate Protogames 016"/>
+            <N K="continentId" T="n" V="69"/>
+        </N>
+        <N F="177" T="t">
+            <N K="name" T="s" V="The Break Room"/>
+            <N K="continentId" T="n" V="69"/>
+        </N>
+        <N F="180" T="t">
+            <N K="name" T="s" V="Ultimate Protogames 020"/>
+            <N K="continentId" T="n" V="69"/>
+        </N>
+        <N F="181" T="t">
+            <N K="name" T="s" V="Protostar Petting Zoo"/>
+            <N K="continentId" T="n" V="69"/>
+        </N>
+        <N F="182" T="t">
+            <N K="name" T="s" V="Employee Cafeteria"/>
+            <N K="continentId" T="n" V="69"/>
+        </N>
+        <N F="184" T="t">
+            <N K="name" T="s" V="The Destiny"/>
+            <N K="continentId" T="n" V="30"/>
+        </N>
+        <N F="185" T="t">
+            <N K="name" T="s" V="The Destiny"/>
+            <N K="continentId" T="n" V="30"/>
+        </N>
+        <N F="186" T="t">
+            <N K="name" T="s" V="The Destiny"/>
+            <N K="continentId" T="n" V="30"/>
+        </N>
+        <N F="187" T="t">
+            <N K="name" T="s" V="The Destiny"/>
+            <N K="continentId" T="n" V="30"/>
+        </N>
+        <N F="188" T="t">
+            <N K="name" T="s" V="The Destiny"/>
+            <N K="continentId" T="n" V="30"/>
+        </N>
+        <N F="189" T="t">
+            <N K="name" T="s" V="Sinnatus&apos;s Cave"/>
+            <N K="continentId" T="n" V="24"/>
+        </N>
+        <N F="191" T="t">
+            <N K="name" T="s" V="The Terminus Complex"/>
+            <N K="continentId" T="n" V="71"/>
+        </N>
+        <N F="192" T="t">
+            <N K="name" T="s" V="Star-Comm Basin"/>
+            <N K="continentId" T="n" V="72"/>
+        </N>
+        <N F="194" T="t">
+            <N K="name" T="s" V="Rockbreaker Mine"/>
+            <N K="continentId" T="n" V="27"/>
+        </N>
+        <N F="195" T="t">
+            <N K="name" T="s" V="The Prison Complex"/>
+            <N K="continentId" T="n" V="27"/>
+        </N>
+        <N F="196" T="t">
+            <N K="name" T="s" V="Master Control Room"/>
+            <N K="continentId" T="n" V="27"/>
+        </N>
+        <N F="197" T="t">
+            <N K="name" T="s" V="The Meatlocker"/>
+            <N K="continentId" T="n" V="26"/>
+        </N>
+        <N F="198" T="t">
+            <N K="name" T="s" V="Void&apos;s Fury"/>
+            <N K="continentId" T="n" V="26"/>
+        </N>
+        <N F="199" T="t">
+            <N K="name" T="s" V="Sub-Basement 101"/>
+            <N K="continentId" T="n" V="26"/>
+        </N>
+        <N F="200" T="t">
+            <N K="name" T="s" V="Holding Cells"/>
+            <N K="continentId" T="n" V="26"/>
+        </N>
+        <N F="201" T="t">
+            <N K="name" T="s" V="The Core"/>
+            <N K="continentId" T="n" V="73"/>
+        </N>
+        <N F="202" T="t">
+            <N K="name" T="s" V="Farside Adventure"/>
+            <N K="continentId" T="n" V="74"/>
+        </N>
+        <N F="203" T="t">
+            <N K="name" T="s" V="Abandoned Eldan Test Lab"/>
+            <N K="continentId" T="n" V="75"/>
+        </N>
+        <N F="204" T="t">
+            <N K="name" T="s" V="Intern Disposal Facility 74"/>
+            <N K="continentId" T="n" V="69"/>
+        </N>
+        <N F="205" T="t">
+            <N K="name" T="s" V="Ultimate Protogames 015"/>
+            <N K="continentId" T="n" V="69"/>
+        </N>
+        <N F="207" T="t">
+            <N K="name" T="s" V="Destiny Cryo-Recovery"/>
+            <N K="continentId" T="n" V="76"/>
+        </N>
+        <N F="208" T="t">
+            <N K="name" T="s" V="Destiny Shuttle Bay"/>
+            <N K="continentId" T="n" V="76"/>
+        </N>
+        <N F="214" T="t">
+            <N K="name" T="s" V="OMNICore-1"/>
+            <N K="continentId" T="n" V="80"/>
+        </N>
+        <N F="215" T="t">
+            <N K="name" T="s" V="Datascape Synaptics Core"/>
+            <N K="continentId" T="n" V="80"/>
+        </N>
+        <N F="216" T="t">
+            <N K="name" T="s" V="Datascape Logic Gate"/>
+            <N K="continentId" T="n" V="80"/>
+        </N>
+        <N F="217" T="t">
+            <N K="name" T="s" V="The Data Matrix"/>
+            <N K="continentId" T="n" V="80"/>
+        </N>
+        <N F="219" T="t">
+            <N K="name" T="s" V="Coldburrow Cavern"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="220" T="t">
+            <N K="name" T="s" V="Coldburrow Cavern"/>
+            <N K="continentId" T="n" V="32"/>
+        </N>
+        <N F="221" T="t">
+            <N K="name" T="s" V="Exo-Lab 729"/>
+            <N K="continentId" T="n" V="32"/>
+        </N>
+        <N F="222" T="t">
+            <N K="name" T="s" V="Kinetic Enhancement Lab"/>
+            <N K="continentId" T="n" V="32"/>
+        </N>
+        <N F="223" T="t">
+            <N K="name" T="s" V="Exo-Lab 729"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="224" T="t">
+            <N K="name" T="s" V="Goldenhand&apos;s Reach"/>
+            <N K="continentId" T="n" V="9"/>
+        </N>
+        <N F="225" T="t">
+            <N K="name" T="s" V="Roughrock Underground"/>
+            <N K="continentId" T="n" V="9"/>
+        </N>
+        <N F="226" T="t">
+            <N K="name" T="s" V="Crater of Carnage"/>
+            <N K="continentId" T="n" V="9"/>
+        </N>
+        <N F="227" T="t">
+            <N K="name" T="s" V="The Blood Crater"/>
+            <N K="continentId" T="n" V="9"/>
+        </N>
+        <N F="228" T="t">
+            <N K="name" T="s" V="The Doomfarer"/>
+            <N K="continentId" T="n" V="9"/>
+        </N>
+        <N F="232" T="t">
+            <N K="name" T="s" V="Crystal Caverns"/>
+            <N K="continentId" T="n" V="9"/>
+        </N>
+        <N F="233" T="t">
+            <N K="name" T="s" V="Crystal Caverns"/>
+            <N K="continentId" T="n" V="9"/>
+        </N>
+        <N F="234" T="t">
+            <N K="name" T="s" V="Grimvoid Dreadvault"/>
+            <N K="continentId" T="n" V="9"/>
+        </N>
+        <N F="235" T="t">
+            <N K="name" T="s" V="Capt&apos;n Krull&apos;s Folly"/>
+            <N K="continentId" T="n" V="9"/>
+        </N>
+        <N F="236" T="t">
+            <N K="name" T="s" V="Blightmuck Abscess"/>
+            <N K="continentId" T="n" V="9"/>
+        </N>
+        <N F="237" T="t">
+            <N K="name" T="s" V="Terminite Mound"/>
+            <N K="continentId" T="n" V="9"/>
+        </N>
+        <N F="238" T="t">
+            <N K="name" T="s" V="Chamber of Aradel"/>
+            <N K="continentId" T="n" V="9"/>
+        </N>
+        <N F="239" T="t">
+            <N K="name" T="s" V="Chamber of Eshia"/>
+            <N K="continentId" T="n" V="9"/>
+        </N>
+        <N F="240" T="t">
+            <N K="name" T="s" V="Chamber of Madoc"/>
+            <N K="continentId" T="n" V="9"/>
+        </N>
+        <N F="241" T="t">
+            <N K="name" T="s" V="Chamber of Nuriel"/>
+            <N K="continentId" T="n" V="9"/>
+        </N>
+        <N F="242" T="t">
+            <N K="name" T="s" V="Chamber of Yuria"/>
+            <N K="continentId" T="n" V="9"/>
+        </N>
+        <N F="243" T="t">
+            <N K="name" T="s" V="Chamber of Enoch"/>
+            <N K="continentId" T="n" V="9"/>
+        </N>
+        <N F="244" T="t">
+            <N K="name" T="s" V="Chamber of the Entity"/>
+            <N K="continentId" T="n" V="9"/>
+        </N>
+        <N F="245" T="t">
+            <N K="name" T="s" V="Chamber of Aradel"/>
+            <N K="continentId" T="n" V="9"/>
+        </N>
+        <N F="246" T="t">
+            <N K="name" T="s" V="Chamber of Eshia"/>
+            <N K="continentId" T="n" V="9"/>
+        </N>
+        <N F="247" T="t">
+            <N K="name" T="s" V="Chamber of Madoc"/>
+            <N K="continentId" T="n" V="9"/>
+        </N>
+        <N F="248" T="t">
+            <N K="name" T="s" V="Chamber of Nuriel"/>
+            <N K="continentId" T="n" V="9"/>
+        </N>
+        <N F="249" T="t">
+            <N K="name" T="s" V="Chamber of Yuria"/>
+            <N K="continentId" T="n" V="9"/>
+        </N>
+        <N F="250" T="t">
+            <N K="name" T="s" V="Chamber of Enoch"/>
+            <N K="continentId" T="n" V="9"/>
+        </N>
+        <N F="251" T="t">
+            <N K="name" T="s" V="Chamber of the Entity"/>
+            <N K="continentId" T="n" V="9"/>
+        </N>
+        <N F="252" T="t">
+            <N K="name" T="s" V="Stygian Thicket"/>
+            <N K="continentId" T="n" V="82"/>
+        </N>
+        <N F="253" T="t">
+            <N K="name" T="s" V="Shadestricken Laboratories"/>
+            <N K="continentId" T="n" V="82"/>
+        </N>
+        <N F="254" T="t">
+            <N K="name" T="s" V="Decrepit Exo-Lab Y23"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="255" T="t">
+            <N K="name" T="s" V="Empyreal Caverns"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="256" T="t">
+            <N K="name" T="s" V="Recontamination Room"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="257" T="t">
+            <N K="name" T="s" V="Exo-Lab Z42"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="258" T="t">
+            <N K="name" T="s" V="Ethereal Caverns"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="259" T="t">
+            <N K="name" T="s" V="Decontamination Room"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="260" T="t">
+            <N K="name" T="s" V="Mind of the Globellum"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="261" T="t">
+            <N K="name" T="s" V="Nursery Checkpoint"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="262" T="t">
+            <N K="name" T="s" V="Nursery Observation Room"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="263" T="t">
+            <N K="name" T="s" V="Transfusion Chamber"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="264" T="t">
+            <N K="name" T="s" V="Chamber of Primal Logic"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="265" T="t">
+            <N K="name" T="s" V="Chamber of Primal Air"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="266" T="t">
+            <N K="name" T="s" V="Chamber of Primal Fire"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="267" T="t">
+            <N K="name" T="s" V="Chamber of Primal Water"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="268" T="t">
+            <N K="name" T="s" V="Chamber of Primal Earth"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="269" T="t">
+            <N K="name" T="s" V="Chamber of Primal Life"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="270" T="t">
+            <N K="name" T="s" V="Genesis Chamber"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="271" T="t">
+            <N K="name" T="s" V="Queen&apos;s Den"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="273" T="t">
+            <N K="name" T="s" V="Ethereal Cavity"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="274" T="t">
+            <N K="name" T="s" V="Ethereal Hollow"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="275" T="t">
+            <N K="name" T="s" V="Creeping Caverns"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="276" T="t">
+            <N K="name" T="s" V="Strain Tunnels"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="277" T="t">
+            <N K="name" T="s" V="Shiphand: Fragment Zero"/>
+            <N K="continentId" T="n" V="83"/>
+        </N>
+        <N F="278" T="t">
+            <N K="name" T="s" V="Incubation Complex"/>
+            <N K="continentId" T="n" V="83"/>
+        </N>
+        <N F="279" T="t">
+            <N K="name" T="s" V="Life-Overseer&apos;s Creche"/>
+            <N K="continentId" T="n" V="83"/>
+        </N>
+        <N F="280" T="t">
+            <N K="name" T="s" V="Biomatics Chamber"/>
+            <N K="continentId" T="n" V="83"/>
+        </N>
+        <N F="281" T="t">
+            <N K="name" T="s" V="Strain Maw"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="282" T="t">
+            <N K="name" T="s" V="The Emperor&apos;s Daughter"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="283" T="t">
+            <N K="name" T="s" V="The Screaming Sword"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="284" T="t">
+            <N K="name" T="s" V="Corrupted Exo-Lab"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="285" T="t">
+            <N K="name" T="s" V="Resonance Tower Control Room"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="286" T="t">
+            <N K="name" T="s" V="Resonance Tower Control Room"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="287" T="t">
+            <N K="name" T="s" V="Exo-Lab 22"/>
+            <N K="continentId" T="n" V="61"/>
+        </N>
+        <N F="288" T="t">
+            <N K="name" T="s" V="Drybore Hollow"/>
+            <N K="continentId" T="n" V="61"/>
+        </N>
+        <N F="289" T="t">
+            <N K="name" T="s" V="Crimson Command"/>
+            <N K="continentId" T="n" V="61"/>
+        </N>
+        <N F="290" T="t">
+            <N K="name" T="s" V="Tumbling Caves"/>
+            <N K="continentId" T="n" V="61"/>
+        </N>
+        <N F="291" T="t">
+            <N K="name" T="s" V="The Fist of Azrion"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="292" T="t">
+            <N K="name" T="s" V="The Widowmaker"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="293" T="t">
+            <N K="name" T="s" V="Department YYZ"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="294" T="t">
+            <N K="name" T="s" V="Department 5150"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="295" T="t">
+            <N K="name" T="s" V="The Divergence"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="296" T="t">
+            <N K="name" T="s" V="Phagelab Level 1"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="298" T="t">
+            <N K="name" T="s" V="Phagelab Level 2"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="299" T="t">
+            <N K="name" T="s" V="Phagelab Level 3"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="300" T="t">
+            <N K="name" T="s" V="Vorion&apos;s Sanctuary"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="301" T="t">
+            <N K="name" T="s" V="Outer Core Chamber Floor 1"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="302" T="t">
+            <N K="name" T="s" V="Outer Core Chamber Floor 2"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="303" T="t">
+            <N K="name" T="s" V="Outer Core Chamber Floor 3"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="304" T="t">
+            <N K="name" T="s" V="Outer Core Chamber Floor 4"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="305" T="t">
+            <N K="name" T="s" V="Inner Core Chamber"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="306" T="t">
+            <N K="name" T="s" V="Bio-Mech Facility Alpha"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="307" T="t">
+            <N K="name" T="s" V="Bay of Betrayal"/>
+            <N K="continentId" T="n" V="84"/>
+        </N>
+        <N F="309" T="t">
+            <N K="name" T="s" V="The Dustrunner"/>
+            <N K="continentId" T="n" V="19"/>
+        </N>
+        <N F="310" T="t">
+            <N K="name" T="s" V="The Dustrunner"/>
+            <N K="continentId" T="n" V="19"/>
+        </N>
+        <N F="311" T="t">
+            <N K="name" T="s" V="Spigo&apos;s Quarters"/>
+            <N K="continentId" T="n" V="19"/>
+        </N>
+        <N F="312" T="t">
+            <N K="name" T="s" V="Bladesworn Caverns"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="313" T="t">
+            <N K="name" T="s" V="Biometrics Facility Gamma"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="314" T="t">
+            <N K="name" T="s" V="Exo-Lab BM15"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="315" T="t">
+            <N K="name" T="s" V="The Maiden&apos;s Offering"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="316" T="t">
+            <N K="name" T="s" V="Stranger&apos;s Hollow"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="317" T="t">
+            <N K="name" T="s" V="Overgrown Passage"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="318" T="t">
+            <N K="name" T="s" V="Primal Kinesis Lab 9"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="319" T="t">
+            <N K="name" T="s" V="Crushstone Cavern"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="320" T="t">
+            <N K="name" T="s" V="Lifeloam Hollow"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="321" T="t">
+            <N K="name" T="s" V="Containment Facility R-12"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="322" T="t">
+            <N K="name" T="s" V="Containment Facility R-12"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="323" T="t">
+            <N K="name" T="s" V="Wreck of the Novus"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="324" T="t">
+            <N K="name" T="s" V="Mad Ernest Vern&apos;s Basement"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="325" T="t">
+            <N K="name" T="s" V="Sparkmire Mine"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="326" T="t">
+            <N K="name" T="s" V="Exo-Lab X1BB"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="327" T="t">
+            <N K="name" T="s" V="Exo-Lab XC42"/>
+            <N K="continentId" T="n" V="85"/>
+        </N>
+        <N F="328" T="t">
+            <N K="name" T="s" V="Grimclaw&apos;s Den"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="329" T="t">
+            <N K="name" T="s" V="The Old Loftite Mine"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="330" T="t">
+            <N K="name" T="s" V="Tumbling Caves"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="331" T="t">
+            <N K="name" T="s" V="Crimson Command"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="332" T="t">
+            <N K="name" T="s" V="Tumbling Caves"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="333" T="t">
+            <N K="name" T="s" V="Exo-Lab 22"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="334" T="t">
+            <N K="name" T="s" V="Surfskitter Cave"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="335" T="t">
+            <N K="name" T="s" V="Stalker&apos;s Den"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="336" T="t">
+            <N K="name" T="s" V="Forgotten Tomb"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="337" T="t">
+            <N K="name" T="s" V="Riverstone Caverns"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="338" T="t">
+            <N K="name" T="s" V="The Queen&apos;s Lair"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="339" T="t">
+            <N K="name" T="s" V="Diluvian Depths"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="340" T="t">
+            <N K="name" T="s" V="Boon of Hydris"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="341" T="t">
+            <N K="name" T="s" V="Bio-Mech Complex AH47 Level 1"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="342" T="t">
+            <N K="name" T="s" V="Bio-Mech Complex AH47 Level 2"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="343" T="t">
+            <N K="name" T="s" V="Recombination Chamber"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="344" T="t">
+            <N K="name" T="s" V="Abandoned Hideout"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="345" T="t">
+            <N K="name" T="s" V="Prosperity Caverns"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="346" T="t">
+            <N K="name" T="s" V="Eldan Lab"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="349" T="t">
+            <N K="name" T="s" V="Stalker&apos;s Den"/>
+            <N K="continentId" T="n" V="84"/>
+        </N>
+        <N F="350" T="t">
+            <N K="name" T="s" V="Engineering Sublevel Theta"/>
+            <N K="continentId" T="n" V="84"/>
+        </N>
+        <N F="351" T="t">
+            <N K="name" T="s" V="The Elder Vault"/>
+            <N K="continentId" T="n" V="84"/>
+        </N>
+        <N F="352" T="t">
+            <N K="name" T="s" V="Security Sublevel Sigma"/>
+            <N K="continentId" T="n" V="84"/>
+        </N>
+        <N F="353" T="t">
+            <N K="name" T="s" V="Abandoned Mine"/>
+            <N K="continentId" T="n" V="17"/>
+        </N>
+        <N F="354" T="t">
+            <N K="name" T="s" V="Coldburrow Cavern"/>
+            <N K="continentId" T="n" V="23"/>
+        </N>
+        <N F="355" T="t">
+            <N K="name" T="s" V="Hycrest City Hall Basement"/>
+            <N K="continentId" T="n" V="24"/>
+        </N>
+        <N F="356" T="t">
+            <N K="name" T="s" V="Greystone Cavern"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="357" T="t">
+            <N K="name" T="s" V="Hycrest Church Basement"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="359" T="t">
+            <N K="name" T="s" V="Hycrest City Hall Basement"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="360" T="t">
+            <N K="name" T="s" V="Hycrest Governor&apos;s Basement"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="361" T="t">
+            <N K="name" T="s" V="Military HQ Basement"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="362" T="t">
+            <N K="name" T="s" V="Hycrest Interrogation Center"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="363" T="t">
+            <N K="name" T="s" V="Poxbrew Enclave"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="364" T="t">
+            <N K="name" T="s" V="Fieldclaw Hollow"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="365" T="t">
+            <N K="name" T="s" V="The Necrohive"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="366" T="t">
+            <N K="name" T="s" V="Cragroach Cavern"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="367" T="t">
+            <N K="name" T="s" V="Blackheart Hollow"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="368" T="t">
+            <N K="name" T="s" V="The Summoner&apos;s Den"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="369" T="t">
+            <N K="name" T="s" V="Starlance War Room"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="370" T="t">
+            <N K="name" T="s" V="Windfall Cave"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="371" T="t">
+            <N K="name" T="s" V="XT-9 Element Augment Complex"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="372" T="t">
+            <N K="name" T="s" V="The Bladevault"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="373" T="t">
+            <N K="name" T="s" V="Witchrock Passage"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="374" T="t">
+            <N K="name" T="s" V="Witchrock Catacombs"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="375" T="t">
+            <N K="name" T="s" V="The Hillscourge"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="376" T="t">
+            <N K="name" T="s" V="The Hillscourge"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="377" T="t">
+            <N K="name" T="s" V="Resource Cave"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="378" T="t">
+            <N K="name" T="s" V="Crimson Hook Cave"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="379" T="t">
+            <N K="name" T="s" V="Deathbringer&apos;s Tomb"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="380" T="t">
+            <N K="name" T="s" V="Moodie Totem Den"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="381" T="t">
+            <N K="name" T="s" V="Moodie Totem Den"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="382" T="t">
+            <N K="name" T="s" V="Moodie Totem Den"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="383" T="t">
+            <N K="name" T="s" V="Moodie Totem Den"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="384" T="t">
+            <N K="name" T="s" V="Witchrock Cavern"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="385" T="t">
+            <N K="name" T="s" V="Beastbone Cave"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="386" T="t">
+            <N K="name" T="s" V="Pride&apos;s Rest"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="387" T="t">
+            <N K="name" T="s" V="Jagged Rock Mine"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="388" T="t">
+            <N K="name" T="s" V="Exo-Lab 78"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="389" T="t">
+            <N K="name" T="s" V="Exo-Lab 79"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="390" T="t">
+            <N K="name" T="s" V="Feralplain Monitoring Station"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="391" T="t">
+            <N K="name" T="s" V="The Lost Caverns"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="395" T="t">
+            <N K="name" T="s" V="Exo-Lab 71: The Arboretum"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="396" T="t">
+            <N K="name" T="s" V="Blighted Tunnel"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="397" T="t">
+            <N K="name" T="s" V="Everstar Passage"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="398" T="t">
+            <N K="name" T="s" V="Whistlewind Caverns"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="399" T="t">
+            <N K="name" T="s" V="Exo-Lab 4"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="400" T="t">
+            <N K="name" T="s" V="Nibben&apos;s Wine Cellar"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="401" T="t">
+            <N K="name" T="s" V="Groundswell Tunnels"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="402" T="t">
+            <N K="name" T="s" V="Crimson Legion Control Room"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="403" T="t">
+            <N K="name" T="s" V="Exo-Lab 83"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="404" T="t">
+            <N K="name" T="s" V="Bristlebane Burrows"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="405" T="t">
+            <N K="name" T="s" V="Thundering Grotto"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="406" T="t">
+            <N K="name" T="s" V="The Dust Stalker"/>
+            <N K="continentId" T="n" V="87"/>
+        </N>
+        <N F="407" T="t">
+            <N K="name" T="s" V="The Botcave"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="408" T="t">
+            <N K="name" T="s" V="Junction Snowshadow Cave"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="409" T="t">
+            <N K="name" T="s" V="Abandoned XAS Research Caves"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="410" T="t">
+            <N K="name" T="s" V="Darkice Cave"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="411" T="t">
+            <N K="name" T="s" V="Ominous Icecave"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="412" T="t">
+            <N K="name" T="s" V="Locus of the Megadroid"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="413" T="t">
+            <N K="name" T="s" V="Abandoned Cache"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="414" T="t">
+            <N K="name" T="s" V="Avra&apos;s Lair"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="415" T="t">
+            <N K="name" T="s" V="Exo-Lab K58"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="416" T="t">
+            <N K="name" T="s" V="Slumbering Silversnout Den"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="417" T="t">
+            <N K="name" T="s" V="Fortune&apos;s Fool"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="418" T="t">
+            <N K="name" T="s" V="Fortune&apos;s Fool"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="419" T="t">
+            <N K="name" T="s" V="Softsnow Yeti Den"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="420" T="t">
+            <N K="name" T="s" V="Tremor Ridge Mine"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="421" T="t">
+            <N K="name" T="s" V="Icemaw Cavern"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="422" T="t">
+            <N K="name" T="s" V="Ganther&apos;s Mine"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="423" T="t">
+            <N K="name" T="s" V="DREDplex: Skyhammer"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="424" T="t">
+            <N K="name" T="s" V="Demonclaw&apos;s Lair"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="425" T="t">
+            <N K="name" T="s" V="The Hidden Grotto"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="426" T="t">
+            <N K="name" T="s" V="Burk&apos;s Claim"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="427" T="t">
+            <N K="name" T="s" V="Halsen&apos;s Claim"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="428" T="t">
+            <N K="name" T="s" V="Duskfall Caverns"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="429" T="t">
+            <N K="name" T="s" V="Blackpaw&apos;s Den"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="430" T="t">
+            <N K="name" T="s" V="Abandoned Crowe Mine"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="431" T="t">
+            <N K="name" T="s" V="Crowe Family Claim"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="432" T="t">
+            <N K="name" T="s" V="First Strike Mine"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="433" T="t">
+            <N K="name" T="s" V="Morek Throg&apos;s Lair"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="434" T="t">
+            <N K="name" T="s" V="Grimbone Tomb"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="435" T="t">
+            <N K="name" T="s" V="The Skittering Grotto"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="436" T="t">
+            <N K="name" T="s" V="Annihilator Control Room 14A"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="437" T="t">
+            <N K="name" T="s" V="Pilgrim&apos;s Promenade"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="438" T="t">
+            <N K="name" T="s" V="Celestial Passage"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="439" T="t">
+            <N K="name" T="s" V="Western Embertree"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="440" T="t">
+            <N K="name" T="s" V="Northeastern Embertree"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="441" T="t">
+            <N K="name" T="s" V="Eastern Embertree"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="442" T="t">
+            <N K="name" T="s" V="Harehollow"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="443" T="t">
+            <N K="name" T="s" V="Darkloam Hole"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="444" T="t">
+            <N K="name" T="s" V="Tanglemore Den"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="445" T="t">
+            <N K="name" T="s" V="Den of Courage"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="446" T="t">
+            <N K="name" T="s" V="Junction Zeta Bunker"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="447" T="t">
+            <N K="name" T="s" V="Arachnotorium"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="448" T="t">
+            <N K="name" T="s" V="Spider Queen&apos;s Den"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="449" T="t">
+            <N K="name" T="s" V="Augmentation Chamber"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="450" T="t">
+            <N K="name" T="s" V="Nanite Repository"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="451" T="t">
+            <N K="name" T="s" V="Essential Reactor Room"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="452" T="t">
+            <N K="name" T="s" V="Heart of the Godwood"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="453" T="t">
+            <N K="name" T="s" V="Grimhold&apos;s Hope"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="454" T="t">
+            <N K="name" T="s" V="Secret Ops Center"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="455" T="t">
+            <N K="name" T="s" V="Thayd Public Works"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="456" T="t">
+            <N K="name" T="s" V="The New Imperial Museum of Illium"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="457" T="t">
+            <N K="name" T="s" V="Illium Public Works Tunnels"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="458" T="t">
+            <N K="name" T="s" V="Enigma Chamber Reception"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="459" T="t">
+            <N K="name" T="s" V="Enigma Chamber"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="460" T="t">
+            <N K="name" T="s" V="Mondo&apos;s Gadgetopolis"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="461" T="t">
+            <N K="name" T="s" V="Kezrek&apos;s War Room"/>
+            <N K="continentId" T="n" V="8"/>
+        </N>
+        <N F="462" T="t">
+            <N K="name" T="s" V="The Blue Horizon Museum"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="464" T="t">
+            <N K="name" T="s" V="The Lightspire"/>
+            <N K="continentId" T="n" V="33"/>
+        </N>
+        <N F="470" T="t">
+            <N K="name" T="s" V="Protogames Academy Lobby"/>
+            <N K="continentId" T="n" V="90"/>
+        </N>
+        <N F="471" T="t">
+            <N K="name" T="s" V="Basic Confrontation Zone"/>
+            <N K="continentId" T="n" V="90"/>
+        </N>
+        <N F="472" T="t">
+            <N K="name" T="s" V="Intermediate Survival Seminar"/>
+            <N K="continentId" T="n" V="90"/>
+        </N>
+        <N F="473" T="t">
+            <N K="name" T="s" V="Mandatory Review Zone"/>
+            <N K="continentId" T="n" V="90"/>
+        </N>
+        <N F="474" T="t">
+            <N K="name" T="s" V="Sim Core G-33"/>
+            <N K="continentId" T="n" V="6"/>
+        </N>
+        <N F="475" T="t">
+            <N K="name" T="s" V="Initialization Core Y-83"/>
+            <N K="continentId" T="n" V="91"/>
+        </N>
+        <N F="476" T="t">
+            <N K="name" T="s" V="Arcterra"/>
+            <N K="continentId" T="n" V="92"/>
+        </N>
+    </N>
+    <N K="version" T="s" V="1.0.0"/>
+    <N K="user" T="t">
+        <N K="debug" T="b" V="-"/>
+    </N>
+    <N K="continents" T="t">
+        <N F="6" T="s" V="Alizar"/>
+        <N F="7" T="s" V="Housing"/>
+        <N F="8" T="s" V="Olyssia"/>
+        <N F="9" T="s" V="Halon Ring"/>
+        <N F="10" T="s" V="Protopia"/>
+        <N F="11" T="s" V="QuestTestIsland"/>
+        <N F="12" T="s" V="InitiateIsland"/>
+        <N F="13" T="s" V="StormtalonLair"/>
+        <N F="14" T="s" V="Skullcano"/>
+        <N F="15" T="s" V="Kel Voreth"/>
+        <N F="16" T="s" V="Galeras Adventure"/>
+        <N F="17" T="s" V="Malgrave Adventure"/>
+        <N F="18" T="s" V="X82CargoShip"/>
+        <N F="19" T="s" V="Farside"/>
+        <N F="20" T="s" V="Housing Algoroc Neighborhood"/>
+        <N F="22" T="s" V="Exile Ark Ship"/>
+        <N F="23" T="s" V="Northern Wilds Adventure"/>
+        <N F="24" T="s" V="Hycrest Adventure"/>
+        <N F="25" T="s" V="Algoroc Adventure"/>
+        <N F="26" T="s" V="Whitevale Adventure"/>
+        <N F="27" T="s" V="Astrovoid Prison Adventure"/>
+        <N F="28" T="s" V="Ellevar Adventure"/>
+        <N F="30" T="s" V="Dominion Ark Ship"/>
+        <N F="31" T="s" V="Eternity Islands"/>
+        <N F="32" T="s" V="Northern Wastes"/>
+        <N F="33" T="s" V="Isigrol"/>
+        <N F="34" T="s" V="Pellicane Test World"/>
+        <N F="36" T="s" V="Housing Skymap"/>
+        <N F="38" T="s" V="Shiphand: Asteroid Mining"/>
+        <N F="39" T="s" V="PvP_Arena"/>
+        <N F="40" T="s" V="PvP Smash and Grab"/>
+        <N F="41" T="s" V="RandyLand"/>
+        <N F="42" T="s" V="Expedition: Graylight Grapplefest"/>
+        <N F="43" T="s" V="Expedition: Kel Voreth Underforge"/>
+        <N F="44" T="s" V="Expedition: The Melting Pot"/>
+        <N F="45" T="s" V="Expedition: Mayday"/>
+        <N F="46" T="s" V="Expedition: Creepy Cave"/>
+        <N F="47" T="s" V="Expedition: Spider Tomb"/>
+        <N F="48" T="s" V="Sanctuary of the Swordmaiden"/>
+        <N F="49" T="s" V="Coralus"/>
+        <N F="50" T="s" V="Shiphand: Void Hunter"/>
+        <N F="51" T="s" V="Shiphand: Rage Logic"/>
+        <N F="52" T="s" V="Datascape"/>
+        <N F="53" T="s" V="Halls of the Bloodsworn"/>
+        <N F="54" T="s" V="PvP: Warplot Battleground"/>
+        <N F="55" T="s" V="PvP: Warplot Sky Map"/>
+        <N F="56" T="s" V="PvP: Cannon"/>
+        <N F="57" T="s" V="PvP: Sabotage"/>
+        <N F="58" T="s" V="Shiphand: Space Madness"/>
+        <N F="60" T="s" V="Shiphand: Deep Space Exploration"/>
+        <N F="61" T="s" V="Crimson Isle Pocket Cap"/>
+        <N F="62" T="s" V="Shiphand: The Gauntlet"/>
+        <N F="63" T="s" V="Drusera World Story 1"/>
+        <N F="64" T="s" V="Drusera World Story 2"/>
+        <N F="65" T="s" V="Drusera World Story 3"/>
+        <N F="67" T="s" V="Genetic Archives"/>
+        <N F="68" T="s" V="Drusera World Story 4"/>
+        <N F="69" T="s" V="Ultimate Protogames"/>
+        <N F="71" T="s" V="Drusera World Story 5"/>
+        <N F="72" T="s" V="Levian Bay Pocket Cap"/>
+        <N F="73" T="s" V="Grimvault Core"/>
+        <N F="74" T="s" V=""/>
+        <N F="75" T="s" V="Expedition: Abandoned Eldan Test Lab"/>
+        <N F="76" T="s" V=""/>
+        <N F="80" T="s" V=""/>
+        <N F="82" T="s" V=""/>
+        <N F="83" T="s" V=""/>
+        <N F="84" T="s" V="Levian Bay Backup"/>
+        <N F="85" T="s" V="Exo-Lab XC42"/>
+        <N F="87" T="s" V="The Dust Stalker"/>
+        <N F="90" T="s" V=""/>
+        <N F="91" T="s" V=""/>
+        <N F="92" T="s" V=""/>
+    </N>
+    <N K="itemTypes" T="t">
+        <N F="1" T="s" V="Armor - Light - Chest"/>
+        <N F="2" T="s" V="Armor - Light - Legs"/>
+        <N F="3" T="s" V="Armor - Light - Head"/>
+        <N F="4" T="s" V="Armor - Light - Shoulder"/>
+        <N F="5" T="s" V="Armor - Light - Feet"/>
+        <N F="6" T="s" V="Armor - Light - Hands"/>
+        <N F="8" T="s" V="Armor - Medium - Chest"/>
+        <N F="9" T="s" V="Armor - Medium - Legs"/>
+        <N F="10" T="s" V="Armor - Medium - Head"/>
+        <N F="11" T="s" V="Armor - Medium - Shoulder"/>
+        <N F="12" T="s" V="Armor - Medium - Feet"/>
+        <N F="13" T="s" V="Armor - Medium - Hands"/>
+        <N F="15" T="s" V="Armor - Heavy - Chest"/>
+        <N F="16" T="s" V="Armor - Heavy - Legs"/>
+        <N F="17" T="s" V="Armor - Heavy - Head"/>
+        <N F="18" T="s" V="Armor - Heavy - Shoulder"/>
+        <N F="19" T="s" V="Armor - Heavy - Feet"/>
+        <N F="20" T="s" V="Armor - Heavy - Hands"/>
+        <N F="28" T="s" V=""/>
+        <N F="30" T="s" V=""/>
+        <N F="45" T="s" V="Pistols"/>
+        <N F="46" T="s" V="Psyblade"/>
+        <N F="48" T="s" V="Claws"/>
+        <N F="49" T="s" V="Plasma Rifle"/>
+        <N F="51" T="s" V="Greatsword"/>
+        <N F="53" T="s" V="Energy Shield"/>
+        <N F="74" T="s" V="Food"/>
+        <N F="75" T="s" V="Potion"/>
+        <N F="79" T="s" V="Resonators"/>
+        <N F="90" T="s" V="Bandage"/>
+        <N F="92" T="s" V=""/>
+        <N F="116" T="s" V=""/>
+        <N F="134" T="s" V="Bag"/>
+        <N F="136" T="s" V="Vanity Pet"/>
+        <N F="139" T="s" V="Elixir"/>
+        <N F="141" T="s" V=""/>
+        <N F="142" T="s" V=""/>
+        <N F="143" T="s" V=""/>
+        <N F="144" T="s" V=""/>
+        <N F="146" T="s" V=""/>
+        <N F="147" T="s" V=""/>
+        <N F="150" T="s" V=""/>
+        <N F="151" T="s" V="Tradeskill Reagent"/>
+        <N F="153" T="s" V=""/>
+        <N F="154" T="s" V=""/>
+        <N F="155" T="s" V="Decor"/>
+        <N F="164" T="s" V="Improvement"/>
+        <N F="169" T="s" V=""/>
+        <N F="170" T="s" V=""/>
+        <N F="171" T="s" V=""/>
+        <N F="172" T="s" V=""/>
+        <N F="173" T="s" V=""/>
+        <N F="174" T="s" V=""/>
+        <N F="180" T="s" V=""/>
+        <N F="181" T="s" V=""/>
+        <N F="182" T="s" V=""/>
+        <N F="183" T="s" V="Ground Mounts"/>
+        <N F="184" T="s" V="Costume - Chest"/>
+        <N F="185" T="s" V="Costume - Legs"/>
+        <N F="186" T="s" V="Costume - Head"/>
+        <N F="187" T="s" V="Costume - Shoulder"/>
+        <N F="188" T="s" V="Costume - Feet"/>
+        <N F="189" T="s" V="Costume - Hands"/>
+        <N F="191" T="s" V=""/>
+        <N F="192" T="s" V="Costume - Weapon"/>
+        <N F="193" T="s" V=""/>
+        <N F="195" T="s" V=""/>
+        <N F="196" T="s" V=""/>
+        <N F="197" T="s" V="Ore"/>
+        <N F="198" T="s" V="Herb"/>
+        <N F="199" T="s" V="Scrap - Weapon Parts"/>
+        <N F="200" T="s" V="Treasure"/>
+        <N F="201" T="s" V="Tool - Mining"/>
+        <N F="202" T="s" V="Omni-Plasm"/>
+        <N F="204" T="s" V="Heavy Gun"/>
+        <N F="205" T="s" V="Locked Stat"/>
+        <N F="206" T="s" V="Power Core"/>
+        <N F="207" T="s" V="Leather"/>
+        <N F="208" T="s" V="Meat"/>
+        <N F="210" T="s" V="Settler Resource"/>
+        <N F="211" T="s" V="Cloth"/>
+        <N F="212" T="s" V="Salvageable Container"/>
+        <N F="213" T="s" V="Seeds"/>
+        <N F="214" T="s" V="Relic Parts"/>
+        <N F="215" T="s" V="Gadget"/>
+        <N F="217" T="s" V="Augment"/>
+        <N F="219" T="s" V="Wood"/>
+        <N F="220" T="s" V="Mushroom"/>
+        <N F="221" T="s" V="Produce"/>
+        <N F="222" T="s" V="Beak - Junk"/>
+        <N F="223" T="s" V="Blood - Junk"/>
+        <N F="224" T="s" V="Bone - Junk"/>
+        <N F="225" T="s" V="Claw - Junk"/>
+        <N F="226" T="s" V="Cloth Scraps - Junk"/>
+        <N F="227" T="s" V="Essence - Junk"/>
+        <N F="228" T="s" V="Eyeball - Junk"/>
+        <N F="229" T="s" V="Feather - Junk"/>
+        <N F="230" T="s" V="Fin - Junk"/>
+        <N F="231" T="s" V="Fur - Junk"/>
+        <N F="232" T="s" V="Gland - Junk"/>
+        <N F="233" T="s" V="Heart - Junk"/>
+        <N F="234" T="s" V="Insignia - Junk"/>
+        <N F="235" T="s" V="Intestines - Junk"/>
+        <N F="236" T="s" V="Knick-Knacks - Junk"/>
+        <N F="237" T="s" V="Metal Scraps - Junk"/>
+        <N F="238" T="s" V="Oil - Junk"/>
+        <N F="239" T="s" V="Papers - Junk"/>
+        <N F="240" T="s" V="Pincher - Junk"/>
+        <N F="241" T="s" V="Powercell - Junk"/>
+        <N F="242" T="s" V="Rock - Junk"/>
+        <N F="243" T="s" V="Scale - Junk"/>
+        <N F="245" T="s" V="Slime - Junk"/>
+        <N F="246" T="s" V="Spores - Junk"/>
+        <N F="248" T="s" V="Talon - Junk"/>
+        <N F="249" T="s" V="Tooth - Junk"/>
+        <N F="250" T="s" V="Totem - Junk"/>
+        <N F="251" T="s" V="Tusk - Junk"/>
+        <N F="252" T="s" V="Venom - Junk"/>
+        <N F="254" T="s" V="Tailor Pattern"/>
+        <N F="255" T="s" V="Outfitter Guide"/>
+        <N F="256" T="s" V="Armorer Design"/>
+        <N F="257" T="s" V="Weaponsmith Schematic"/>
+        <N F="258" T="s" V="Technologist Formula"/>
+        <N F="259" T="s" V="Cook Recipe"/>
+        <N F="260" T="s" V="Architect Blueprint"/>
+        <N F="266" T="s" V="Fish"/>
+        <N F="268" T="s" V="Bug Meat"/>
+        <N F="269" T="s" V="Poultry"/>
+        <N F="270" T="s" V="Gem"/>
+        <N F="271" T="s" V="Crystal"/>
+        <N F="272" T="s" V="Tool - Survivalist"/>
+        <N F="273" T="s" V="Tool - Relic Hunter"/>
+        <N F="274" T="s" V="Pelt"/>
+        <N F="275" T="s" V="Bone"/>
+        <N F="281" T="s" V="Cooking - Ingredient"/>
+        <N F="282" T="s" V="Architect - Hardware"/>
+        <N F="283" T="s" V="Junk"/>
+        <N F="285" T="s" V="Meat Meal"/>
+        <N F="286" T="s" V="Poultry Meal"/>
+        <N F="287" T="s" V="Bug Meat Meal"/>
+        <N F="288" T="s" V="Vegetarian Option"/>
+        <N F="289" T="s" V="Seafood"/>
+        <N F="290" T="s" V="Algoroc Eats"/>
+        <N F="291" T="s" V="Deradune Victuals"/>
+        <N F="292" T="s" V="Celestion Comestibles"/>
+        <N F="293" T="s" V="Ellevar Edibles"/>
+        <N F="294" T="s" V="Galeras Grub"/>
+        <N F="295" T="s" V="Auroria Chow"/>
+        <N F="296" T="s" V="Whitevale Vittles"/>
+        <N F="298" T="s" V="Weapon Attachment"/>
+        <N F="299" T="s" V="Support System"/>
+        <N F="300" T="s" V="Key"/>
+        <N F="301" T="s" V="Implant"/>
+        <N F="302" T="s" V="Lodestone"/>
+        <N F="306" T="s" V="Emberine Acceleron"/>
+        <N F="307" T="s" V="Corium Acceleron"/>
+        <N F="308" T="s" V="Cyclonite Acceleron"/>
+        <N F="309" T="s" V="Marinax Acceleron"/>
+        <N F="312" T="s" V="Farside Foods"/>
+        <N F="313" T="s" V="Wilderrun Provisions"/>
+        <N F="315" T="s" V="Halon Ring Entrees"/>
+        <N F="316" T="s" V="Malgrave Sustenance"/>
+        <N F="317" T="s" V="Grimvault Meals"/>
+        <N F="318" T="s" V="Additive - Technologist"/>
+        <N F="319" T="s" V="Locked Special"/>
+        <N F="320" T="s" V="Architect Catalyst"/>
+        <N F="321" T="s" V="Technologist Catalyst"/>
+        <N F="322" T="s" V="Cooking Catalyst"/>
+        <N F="324" T="s" V="Mining - No Commodity"/>
+        <N F="325" T="s" V="Meat - No Commodity"/>
+        <N F="326" T="s" V="Farming - No Commodity"/>
+        <N F="327" T="s" V="Relics - No Commodity"/>
+        <N F="328" T="s" V="Medishot"/>
+        <N F="329" T="s" V="Boost"/>
+        <N F="330" T="s" V="Cloth - No Commodity"/>
+        <N F="331" T="s" V="Modification - No Commodity"/>
+        <N F="332" T="s" V="Dye"/>
+        <N F="334" T="s" V="Rune"/>
+        <N F="336" T="s" V="Elder Meals"/>
+        <N F="337" T="s" V="Hybrid Meals"/>
+        <N F="338" T="s" V="Datascape Meals"/>
+        <N F="339" T="s" V="Water Element"/>
+        <N F="340" T="s" V="Life Element"/>
+        <N F="341" T="s" V="Earth Element"/>
+        <N F="342" T="s" V="Fusion Element"/>
+        <N F="343" T="s" V="Fire Element"/>
+        <N F="344" T="s" V="Logic Element"/>
+        <N F="345" T="s" V="Air Element"/>
+        <N F="347" T="s" V="Special Diet"/>
+        <N F="349" T="s" V="Dye Collection"/>
+        <N F="359" T="s" V="Rune Fragment"/>
+        <N F="361" T="s" V="Field Tech"/>
+        <N F="362" T="s" V="Red Capacitor"/>
+        <N F="363" T="s" V="Blue Resonator"/>
+        <N F="364" T="s" V="Green Inductor"/>
+        <N F="365" T="s" V="Gadget Reagent"/>
+        <N F="366" T="s" V="Warplot Improvement"/>
+        <N F="367" T="s" V="Hoverboard Mounts"/>
+        <N F="368" T="s" V="Hoverboard Mount Flair - Front"/>
+        <N F="369" T="s" V="Hoverboard Mount Flair - Rear"/>
+        <N F="370" T="s" V="Hoverboard Mount Flair - Side"/>
+        <N F="372" T="s" V="Ground Mount Flair - Front"/>
+        <N F="373" T="s" V="Ground Mount Flair - Rear"/>
+        <N F="374" T="s" V="Ground Mount Flair - Side"/>
+        <N F="377" T="s" V="Eldan Artifact"/>
+        <N F="378" T="s" V="Master Schematic"/>
+        <N F="379" T="s" V="Warplot Deployable Weapon"/>
+        <N F="380" T="s" V="Warplot Deployable Trap"/>
+        <N F="381" T="s" V="Rune Fragment Set"/>
+        <N F="382" T="s" V="Smart Cloth"/>
+        <N F="383" T="s" V="Glamer Cloth"/>
+        <N F="384" T="s" V="Neurocite Ingot"/>
+        <N F="385" T="s" V="Vitalium Ingot"/>
+        <N F="386" T="s" V="Tech Leather"/>
+        <N F="387" T="s" V="Sacred Leather"/>
+        <N F="389" T="s" V="Meal - No Commodity"/>
+        <N F="390" T="s" V="Power Core"/>
+        <N F="391" T="s" V="Tradeskill Reagent"/>
+        <N F="392" T="s" V="Imbuement Material"/>
+        <N F="393" T="s" V="Security Key Material"/>
+        <N F="394" T="s" V="Warrior AMP"/>
+        <N F="395" T="s" V="Engineer AMP"/>
+        <N F="396" T="s" V="Medic AMP"/>
+        <N F="397" T="s" V="Stalker AMP"/>
+        <N F="398" T="s" V="Esper AMP"/>
+        <N F="399" T="s" V="Spellslinger AMP"/>
+        <N F="400" T="s" V="Carcass - Beast"/>
+        <N F="401" T="s" V="Carcass - Bird"/>
+        <N F="402" T="s" V="Carcass - Bug"/>
+        <N F="403" T="s" V="Carcass - Fish"/>
+        <N F="404" T="s" V="Attributes"/>
+        <N F="405" T="s" V="General Rune Sets"/>
+        <N F="406" T="s" V="Class Rune Sets"/>
+        <N F="407" T="s" V="Elder Rune Sets"/>
+        <N F="408" T="s" V="Attributes"/>
+        <N F="409" T="s" V="General Rune Sets"/>
+        <N F="410" T="s" V="Class Rune Sets"/>
+        <N F="411" T="s" V="Elder Rune Sets"/>
+        <N F="412" T="s" V="Attributes"/>
+        <N F="413" T="s" V="General Rune Sets"/>
+        <N F="414" T="s" V="Class Rune Sets"/>
+        <N F="415" T="s" V="Elder Rune Sets"/>
+        <N F="416" T="s" V="Attributes"/>
+        <N F="417" T="s" V="General Rune Sets"/>
+        <N F="418" T="s" V="Class Rune Sets"/>
+        <N F="419" T="s" V="Elder Rune Sets"/>
+        <N F="420" T="s" V="Attributes"/>
+        <N F="421" T="s" V="General Rune Sets"/>
+        <N F="422" T="s" V="Class Rune Sets"/>
+        <N F="423" T="s" V="Elder Rune Sets"/>
+        <N F="424" T="s" V="Attributes"/>
+        <N F="425" T="s" V="General Rune Sets"/>
+        <N F="426" T="s" V="Class Rune Sets"/>
+        <N F="427" T="s" V="Elder Rune Sets"/>
+        <N F="428" T="s" V="Attributes"/>
+        <N F="429" T="s" V="General Rune Sets"/>
+        <N F="430" T="s" V="Class Rune Sets"/>
+        <N F="431" T="s" V="Elder Rune Sets"/>
+        <N F="433" T="s" V="PvP Attributes"/>
+        <N F="434" T="s" V="PvP Attributes"/>
+        <N F="435" T="s" V="PvP Attributes"/>
+        <N F="436" T="s" V="PvP Attributes"/>
+        <N F="437" T="s" V="PvP Attributes"/>
+        <N F="438" T="s" V="PvP Attributes"/>
+        <N F="439" T="s" V="PvP Attributes"/>
+        <N F="440" T="s" V="PvP Rune Sets"/>
+        <N F="441" T="s" V="PvP Rune Sets"/>
+        <N F="442" T="s" V="PvP Rune Sets"/>
+        <N F="443" T="s" V="PvP Rune Sets"/>
+        <N F="444" T="s" V="PvP Rune Sets"/>
+        <N F="445" T="s" V="PvP Rune Sets"/>
+        <N F="446" T="s" V="PvP Rune Sets"/>
+        <N F="447" T="s" V="PvP Loot Chest"/>
+        <N F="448" T="s" V="Tradeskill Loot Bag"/>
+        <N F="449" T="s" V="Loot Bag"/>
+        <N F="450" T="s" V="Dye Loot Bag"/>
+        <N F="451" T="s" V="Housing Decor Loot Chest"/>
+        <N F="452" T="s" V="Blighthaven Bites"/>
+        <N F="453" T="s" V="Cloth Salvageables"/>
+        <N F="454" T="s" V="The Defile Delicacies"/>
+        <N F="455" T="s" V="Nexus Nourishments"/>
+        <N F="456" T="s" V="Star-Comm Snacks"/>
+        <N F="457" T="s" V="Ultimate Protogames Beverages"/>
+        <N F="458" T="s" V="Carnageknit Cloth"/>
+        <N F="459" T="s" V="Phagesilk Cloth"/>
+        <N F="460" T="s" V="Eldanweave Cloth"/>
+        <N F="461" T="s" V="Skeech Soup"/>
+        <N F="462" T="s" V="Unlocks and Upgrades"/>
+        <N F="463" T="s" V="Runecrafting Inscription"/>
+        <N F="465" T="s" V="Runic Flux"/>
+        <N F="466" T="s" V="Novelty Weapons"/>
+        <N F="467" T="s" V="Token - Heavy Armor - Head"/>
+        <N F="468" T="s" V="Token - Heavy Armor - Shoulder"/>
+        <N F="469" T="s" V="Token - Heavy Armor - Chest"/>
+        <N F="470" T="s" V="Token - Heavy Armor - Legs"/>
+        <N F="471" T="s" V="Token - Heavy Armor - Hands"/>
+        <N F="472" T="s" V="Token - Heavy Armor - Feet"/>
+        <N F="482" T="s" V="???"/>
+        <N F="483" T="s" V="Token - Medium Armor - Head"/>
+        <N F="484" T="s" V="Token - Medium Armor - Shoulder"/>
+        <N F="485" T="s" V="Token - Medium Armor - Chest"/>
+        <N F="486" T="s" V="Token - Medium Armor - Legs"/>
+        <N F="487" T="s" V="Token - Medium Armor - Hands"/>
+        <N F="488" T="s" V="Token - Medium Armor - Feet"/>
+        <N F="489" T="s" V="Token - Light Armor - Head"/>
+        <N F="490" T="s" V="Token - Light Armor - Shoulder"/>
+        <N F="491" T="s" V="Token - Light Armor - Chest"/>
+        <N F="492" T="s" V="Token - Light Armor - Legs"/>
+        <N F="493" T="s" V="Token - Light Armor - Hands"/>
+        <N F="494" T="s" V="Token - Light Armor - Feet"/>
+        <N F="495" T="s" V=""/>
+        <N F="496" T="s" V="Toy"/>
+        <N F="499" T="s" V=""/>
+    </N>
+    <N K="positions" T="t">
+        <N K="main" T="t">
+            <N K="nOffsets" T="t">
+                <N F="1" T="n" V="7"/>
+                <N F="2" T="n" V="8"/>
+                <N F="3" T="n" V="561"/>
+                <N F="4" T="n" V="257"/>
+            </N>
+            <N K="fPoints" T="t">
+                <N F="1" T="n" V="0"/>
+                <N F="2" T="n" V="0"/>
+                <N F="3" T="n" V="0"/>
+                <N F="4" T="n" V="0"/>
+            </N>
+        </N>
+    </N>
+    <N K="itemTypeExamples" T="t">
+        <N F="1" T="s" V="Competitor&apos;s Wrap"/>
+        <N F="2" T="s" V="Wraps of Infiltration"/>
+        <N F="3" T="s" V="Osun Bloodsworn Circlet"/>
+        <N F="4" T="s" V="Technopath&apos;s Crest"/>
+        <N F="5" T="s" V="Lethargic Shower Boots"/>
+        <N F="6" T="s" V="Lethargic Silt Gloves"/>
+        <N F="8" T="s" V="Ambusher&apos;s Fatigues"/>
+        <N F="9" T="s" V="Infiltrator&apos;s Greaves"/>
+        <N F="10" T="s" V="Assassin&apos;s Cowl"/>
+        <N F="11" T="s" V="Eldan Shadow"/>
+        <N F="12" T="s" V="Lethargic Flow Boots"/>
+        <N F="13" T="s" V="Lethargic Mire Gloves"/>
+        <N F="15" T="s" V="Chestguard of Guidance"/>
+        <N F="16" T="s" V="Technopath&apos;s Greaves"/>
+        <N F="17" T="s" V="Osun Bloodsworn Battle Helm"/>
+        <N F="18" T="s" V="Bearings of the Ascended"/>
+        <N F="19" T="s" V="Lethargic Mist Boots"/>
+        <N F="20" T="s" V="Lethargic Rock Gloves"/>
+        <N F="28" T="s" V="Deprecated"/>
+        <N F="30" T="s" V="Test Scientist Build Item"/>
+        <N F="45" T="s" V="Predictive Infoblasters"/>
+        <N F="46" T="s" V="Computerized Infostar"/>
+        <N F="48" T="s" V="Gated Infoslicers"/>
+        <N F="49" T="s" V="DEPRECATE"/>
+        <N F="51" T="s" V="Adaptive Infoblade"/>
+        <N F="53" T="s" V="Experimental Energy Sponge"/>
+        <N F="74" T="s" V="Greko&apos;s Black Label"/>
+        <N F="75" T="s" V="Focus Stone"/>
+        <N F="79" T="s" V="Real Time Infopaddles"/>
+        <N F="90" T="s" V="Medkit"/>
+        <N F="92" T="s" V="Mysterious Weapon"/>
+        <N F="116" T="s" V="Recipe: Halon Ring Pasta"/>
+        <N F="134" T="s" V="Strain-Stitched Satchel"/>
+        <N F="136" T="s" V="Anniverserowsdower"/>
+        <N F="139" T="s" V="Item Challenge Exploit Test"/>
+        <N F="141" T="s" V="Aggression Enhancement: Mark I"/>
+        <N F="142" T="s" V="Deed to Exclusive &quot;Piglet&quot; House"/>
+        <N F="143" T="s" V="Title: The Anniverserator"/>
+        <N F="144" T="s" V="Sim Healer"/>
+        <N F="146" T="s" V="Star-Comm Static"/>
+        <N F="147" T="s" V="Unidentified Gloves"/>
+        <N F="150" T="s" V="Summon Spell Reagent"/>
+        <N F="151" T="s" V="Random Weapon Special"/>
+        <N F="153" T="s" V="Energy Anomaly"/>
+        <N F="154" T="s" V="Calliope Green&apos;s Cookbook, Chapter 1: The Spice You Must Know"/>
+        <N F="155" T="s" V="Ikthian Plasma Container"/>
+        <N F="164" T="s" V="Protostar Snowfield FABKit"/>
+        <N F="169" T="s" V="Shade&apos;s Eve Gourd"/>
+        <N F="170" T="s" V="Protostar Promissory Note"/>
+        <N F="171" T="s" V="Stalkerkind Data Core"/>
+        <N F="172" T="s" V="Nomad Overcharged Energycore"/>
+        <N F="173" T="s" V="Broken Strength Circuit"/>
+        <N F="174" T="s" V="Blurry Lines"/>
+        <N F="180" T="s" V="Bag of Useless Junk"/>
+        <N F="181" T="s" V="Dangerous Creatures of Nexus"/>
+        <N F="182" T="s" V="Path Ability Unlock IOU"/>
+        <N F="183" T="s" V="Snarfelynx Mount"/>
+        <N F="184" T="s" V="Crimson Marauder&apos;s Surcoat"/>
+        <N F="185" T="s" V="Crimson Marauder&apos;s Pantaloons"/>
+        <N F="186" T="s" V="Crimson Marauder&apos;s Tricorn"/>
+        <N F="187" T="s" V="Crimson Marauder&apos;s Epaulets"/>
+        <N F="188" T="s" V="Crimson Marauder&apos;s Boots"/>
+        <N F="189" T="s" V="Crimson Marauder&apos;s Cuffs"/>
+        <N F="191" T="s" V="AMR_Imperium_Surveyor_Face"/>
+        <N F="192" T="s" V="Grave marker"/>
+        <N F="193" T="s" V="Prototype Monster Treat"/>
+        <N F="195" T="s" V="[DEPRECATE]Datacube Slab"/>
+        <N F="196" T="s" V="Matrix Data: Ravenok"/>
+        <N F="197" T="s" V="Galactium Chunk"/>
+        <N F="198" T="s" V="Coralscale"/>
+        <N F="199" T="s" V="Crate of Surplus Crafting Goods"/>
+        <N F="200" T="s" V="Container of Countefeit Cash"/>
+        <N F="201" T="s" V="Test Laser Pickaxe"/>
+        <N F="202" T="s" V="Kinetic Omni-Plasm"/>
+        <N F="204" T="s" V="High-Level Infolauncher"/>
+        <N F="205" T="s" V="Random"/>
+        <N F="206" T="s" V="Rough Quartz Power Core"/>
+        <N F="207" T="s" V="Primal Leather"/>
+        <N F="208" T="s" V="Behemoth Meat"/>
+        <N F="210" T="s" V="Shade&apos;s Eve Skull"/>
+        <N F="211" T="s" V="Canvas Cloth Pattern"/>
+        <N F="212" T="s" V="Bag o&apos; Riches"/>
+        <N F="213" T="s" V="Coralscale Seeds"/>
+        <N F="214" T="s" V="Eldan Hybrid Harmonizer"/>
+        <N F="215" T="s" V="Signal-Compression Catalyst"/>
+        <N F="217" T="s" V="DEPRECATE"/>
+        <N F="219" T="s" V="Eldan Timber"/>
+        <N F="220" T="s" V="Large Renewshroom"/>
+        <N F="221" T="s" V="Grimgourd"/>
+        <N F="222" T="s" V="Sharp Vulcarrion Beak"/>
+        <N F="223" T="s" V="Impure Blood"/>
+        <N F="224" T="s" V="Cartilage"/>
+        <N F="225" T="s" V="Young Warpig Hoof"/>
+        <N F="226" T="s" V="Starloom Ribbon"/>
+        <N F="227" T="s" V="Gronyx Ore"/>
+        <N F="228" T="s" V="Fractured Eye"/>
+        <N F="229" T="s" V="Stripped Murgh Wings"/>
+        <N F="230" T="s" V="Vestigial Fin"/>
+        <N F="231" T="s" V="Whole Rockhorde Limbs"/>
+        <N F="232" T="s" V="Canker Sore"/>
+        <N F="233" T="s" V="Perfect Eldan Heart"/>
+        <N F="234" T="s" V="Oghra Specialist&apos;s Stripes"/>
+        <N F="235" T="s" V="Sliced Meat"/>
+        <N F="236" T="s" V="Flavored Pipe"/>
+        <N F="237" T="s" V="Oiled Mechari Gears"/>
+        <N F="238" T="s" V="Valuable Oil"/>
+        <N F="239" T="s" V="Protostar Instruction Manual"/>
+        <N F="240" T="s" V="Razor Sharp Wormite Pincer"/>
+        <N F="241" T="s" V="Dead Mechari Power Core"/>
+        <N F="242" T="s" V="Cracked Baubles"/>
+        <N F="243" T="s" V="Shiny Longsnout Scales"/>
+        <N F="245" T="s" V="Grey Matter"/>
+        <N F="246" T="s" V="Sun-Dried Moss"/>
+        <N F="248" T="s" V="Bent Talon"/>
+        <N F="249" T="s" V="Sharpened Skug Queen Fangs"/>
+        <N F="250" T="s" V="Wriggling Squirg Parts"/>
+        <N F="251" T="s" V="Twisted Draken Horn"/>
+        <N F="252" T="s" V="Isolated Contagion"/>
+        <N F="254" T="s" V="Pattern: &apos;Archivos&apos; LA-5S Smart Cloth Phagesash"/>
+        <N F="255" T="s" V="Guide: &apos;Epochos&apos; Variant MA-1B"/>
+        <N F="256" T="s" V="Design: &apos;Archivos&apos; HA-5S Neurophagic Shoulderplate"/>
+        <N F="257" T="s" V="Schematic: Exile Xenocore Blade"/>
+        <N F="258" T="s" V="Formula: &apos;Epochos&apos; Prototype RF-1"/>
+        <N F="259" T="s" V="Recipe: Dominion Dessert"/>
+        <N F="260" T="s" V="Blueprint: Gothic Pillar"/>
+        <N F="266" T="s" V="Huge Fish"/>
+        <N F="268" T="s" V="Enhanced Spider Meat"/>
+        <N F="269" T="s" V="Pure Gribbon Meat"/>
+        <N F="270" T="s" V="Starshard"/>
+        <N F="271" T="s" V="Novacite"/>
+        <N F="272" T="s" V="Expert&apos;s Laser Chainsaw"/>
+        <N F="273" T="s" V="Expert&apos;s Relic Blaster"/>
+        <N F="274" T="s" V="Primal Pelt"/>
+        <N F="275" T="s" V="Infused Bone"/>
+        <N F="281" T="s" V="Wine"/>
+        <N F="282" T="s" V="Holographic Input Device"/>
+        <N F="283" T="s" V="Prototype Tech Components"/>
+        <N F="285" T="s" V="Fried Scrab Claws"/>
+        <N F="286" T="s" V="Citrus Basted Poultry"/>
+        <N F="287" T="s" V="Pincer Pie"/>
+        <N F="288" T="s" V="Cheesy Heartichoke Dip"/>
+        <N F="289" T="s" V="Sweet-and-Sour Fish"/>
+        <N F="290" T="s" V="Gallow&apos;s Special Fruit Smoothie"/>
+        <N F="291" T="s" V="Thirst-Quenching Spring Water"/>
+        <N F="292" T="s" V="Nectar of Refreshment"/>
+        <N F="293" T="s" V="AEGIS Static Shield Liquiform"/>
+        <N F="294" T="s" V="Galeras Foraged Stew"/>
+        <N F="295" T="s" V="Dagun Steak Au Jus"/>
+        <N F="296" T="s" V="Mammodin Meatloaf"/>
+        <N F="298" T="s" V="Crucible Guardian&apos;s Neural Analyzer"/>
+        <N F="299" T="s" V="Tiki Protector&apos;s Sacrificial Amplifier"/>
+        <N F="300" T="s" V="Pristine Genesis Key"/>
+        <N F="301" T="s" V="Star-Comm Restorative Protocol Chip"/>
+        <N F="302" T="s" V="Lodestone"/>
+        <N F="306" T="s" V="Emberine Acceleron"/>
+        <N F="307" T="s" V="Corium Acceleron"/>
+        <N F="308" T="s" V="Cyclonite Acceleron"/>
+        <N F="309" T="s" V="Marinax Acceleron"/>
+        <N F="312" T="s" V="Bello&apos;s Farside Sangria"/>
+        <N F="313" T="s" V="Dawngrazer Medallions"/>
+        <N F="315" T="s" V="Orbitog Brain Pudding"/>
+        <N F="316" T="s" V="Chompachalupa"/>
+        <N F="317" T="s" V="Excellent Boulderback Chili"/>
+        <N F="318" T="s" V="Dimensional Bond - Fabrication Additive"/>
+        <N F="319" T="s" V="Random Shield Special"/>
+        <N F="320" T="s" V="Secret Weaponry of the Eldan: Can We Build a Bigger Laser?"/>
+        <N F="321" T="s" V="Inspecting Gadgets: A Life on the Assembly Line"/>
+        <N F="322" T="s" V="The Art of Chua Cooking Vol. 2"/>
+        <N F="324" T="s" V="Metal Chunk"/>
+        <N F="325" T="s" V="Medusa Jelly"/>
+        <N F="326" T="s" V="Devilroot"/>
+        <N F="327" T="s" V="Eldan Power Supply"/>
+        <N F="328" T="s" V="Archivos Medishot: Sustained Healing"/>
+        <N F="329" T="s" V="Gladiator&apos;s Stimulant of Defense"/>
+        <N F="330" T="s" V="Eldanweave Cloth"/>
+        <N F="331" T="s" V="Recovery (.3)"/>
+        <N F="332" T="s" V="Gamescom Blue-Purple Dye"/>
+        <N F="334" T="s" V="Desperation Fire Rune - Critical Hit"/>
+        <N F="336" T="s" V="Draken Pie"/>
+        <N F="337" T="s" V="Cubacon-Wrapped Cubesteak"/>
+        <N F="338" T="s" V="Spicy Grilled Behemoth"/>
+        <N F="339" T="s" V="Sign of Water - Eldan"/>
+        <N F="340" T="s" V="Sign of Life - Eldan"/>
+        <N F="341" T="s" V="Sign of Earth - Eldan"/>
+        <N F="342" T="s" V="Sign of Fusion - Eldan"/>
+        <N F="343" T="s" V="Sign of Fire - Eldan"/>
+        <N F="344" T="s" V="Sign of Logic - Eldan"/>
+        <N F="345" T="s" V="Sign of Air - Eldan"/>
+        <N F="347" T="s" V="Spellblade&apos;s Meal"/>
+        <N F="349" T="s" V="Damaged Protostar Dye Collection"/>
+        <N F="359" T="s" V="Exceptional Protostar Runic Bartering Fragment"/>
+        <N F="361" T="s" V="Protostar Anachronism Detector"/>
+        <N F="362" T="s" V="Critical Hit Severity"/>
+        <N F="363" T="s" V="ShieldCap 125 - Rare"/>
+        <N F="364" T="s" V="Focus Recovery Rate"/>
+        <N F="365" T="s" V="Sufficiently Reclaimed Eldan Relic"/>
+        <N F="366" T="s" V="Attack Ship Center: Energized"/>
+        <N F="367" T="s" V="GlitterKitty Cruiser"/>
+        <N F="368" T="s" V="Hoverboard Mount Front Flair: GlitterKitty"/>
+        <N F="369" T="s" V="Hoverboard Mount Rear Flair: GlitterKitty"/>
+        <N F="370" T="s" V="Hoverboard Mount Side Flair: GlitterKitty"/>
+        <N F="372" T="s" V="Ground Mount Front Flair: Entertainer"/>
+        <N F="373" T="s" V="Ground Mount Rear Flair: Entertainer"/>
+        <N F="374" T="s" V="Ground Mount Side Flair: Entertainer"/>
+        <N F="377" T="s" V="Fading Eldan Consciousness"/>
+        <N F="378" T="s" V="Eldan Schematic: Marinax Infuser"/>
+        <N F="379" T="s" V="Shielded Stasis Cannon"/>
+        <N F="380" T="s" V="Advanced Bug Bomb"/>
+        <N F="381" T="s" V="Windboots Shard"/>
+        <N F="382" T="s" V="Smart Cloth"/>
+        <N F="383" T="s" V="Glamer Cloth"/>
+        <N F="384" T="s" V="Neurocite Ingot"/>
+        <N F="385" T="s" V="Vitalium Ingot"/>
+        <N F="386" T="s" V="Tech Leather"/>
+        <N F="387" T="s" V="Sacred Leather"/>
+        <N F="389" T="s" V="Recipe: Space Jelly"/>
+        <N F="390" T="s" V="Biophagic Power Core"/>
+        <N F="391" T="s" V="Carnage Jack"/>
+        <N F="392" T="s" V="Encrypted Datashard"/>
+        <N F="393" T="s" V="Partial Primal Pattern"/>
+        <N F="394" T="s" V="Anti-Magic Armor AMP"/>
+        <N F="395" T="s" V="Keep up the Pace AMP"/>
+        <N F="396" T="s" V="Running on Empty AMP"/>
+        <N F="397" T="s" V="Onslaught AMP"/>
+        <N F="398" T="s" V="Inspirational Charge AMP"/>
+        <N F="399" T="s" V="Surge Damage AMP"/>
+        <N F="400" T="s" V="Trophy Kill"/>
+        <N F="401" T="s" V="Hearty Birdmeat"/>
+        <N F="402" T="s" V="Meaty Abdomen"/>
+        <N F="403" T="s" V="Fresh Seafood"/>
+        <N F="404" T="s" V="Rune of Recovery"/>
+        <N F="405" T="s" V="Enantioselective Protonation Rune of Critical"/>
+        <N F="406" T="s" V="Synapse Rune of Moxie"/>
+        <N F="407" T="s" V="Exceptional Head Wind Rune of Moxie "/>
+        <N F="408" T="s" V="Rune of Support Power"/>
+        <N F="409" T="s" V="Enantioselective Protonation Rune of Recovery"/>
+        <N F="410" T="s" V="Concentrated Assault Rune of Finesse"/>
+        <N F="411" T="s" V="Exceptional Head Wind Rune of Brutality "/>
+        <N F="412" T="s" V="Rune of Support Power"/>
+        <N F="413" T="s" V="Stable Isotopic Rune of Armor"/>
+        <N F="414" T="s" V="Full Charge Rune of Support Power"/>
+        <N F="415" T="s" V="Exceptional Head Wind Rune of Finesse "/>
+        <N F="416" T="s" V="Rune of Grit"/>
+        <N F="417" T="s" V="Stable Isotopic Rune of Deflect Critical"/>
+        <N F="418" T="s" V="Concentrated Assault Rune of Assault Power"/>
+        <N F="419" T="s" V="Exceptional Head Wind Rune of Shield Cap "/>
+        <N F="420" T="s" V="Rune of Shield Capacity"/>
+        <N F="421" T="s" V="Enantioselective Protonation Rune of Health"/>
+        <N F="422" T="s" V="Predator Rune of Shield Capacity"/>
+        <N F="423" T="s" V="Exceptional Head Wind Rune of Grit "/>
+        <N F="424" T="s" V="Rune of Health"/>
+        <N F="425" T="s" V="Enantioselective Protonation Rune of Critical Severity"/>
+        <N F="426" T="s" V="Focused Surge Rune of Moxie"/>
+        <N F="427" T="s" V="Exceptional Head Wind Rune of Shield Cap "/>
+        <N F="428" T="s" V="Weakened Rune of Grit"/>
+        <N F="429" T="s" V="Enantioselective Protonation Rune of Support Power"/>
+        <N F="430" T="s" V="Sucker Punch Rune of Strikethrough"/>
+        <N F="431" T="s" V="Exceptional Fusion Guard Rune of Deflect "/>
+        <N F="433" T="s" V="Gladiator&apos;s Tactician Rune of PvP Power"/>
+        <N F="434" T="s" V="Gladiator&apos;s Tactician Rune of PvP Defense"/>
+        <N F="435" T="s" V="Gladiator&apos;s Tactician Rune of PvP Defense"/>
+        <N F="436" T="s" V="Gladiator&apos;s Tactician Rune of PvP Power"/>
+        <N F="437" T="s" V="Gladiator&apos;s Tactician Rune of PvP Power"/>
+        <N F="438" T="s" V="Gladiator&apos;s Tactician Rune of PvP Power"/>
+        <N F="439" T="s" V="Gladiator&apos;s Tactician Rune of PvP Power"/>
+        <N F="440" T="s" V="Scatter Shots Rune of Brutality"/>
+        <N F="441" T="s" V="Unfair Advantage Rune of Finesse"/>
+        <N F="442" T="s" V="Sight Before Sight Rune of Brutality"/>
+        <N F="443" T="s" V="Shield Flux Rune of Recovery"/>
+        <N F="444" T="s" V="Scatter Shots Rune of PvP Power"/>
+        <N F="445" T="s" V="Sight Before Sight Rune of Health"/>
+        <N F="446" T="s" V="Scatter Shots Rune of Support Power"/>
+        <N F="447" T="s" V="Level 40-49 PvP Gear Kit"/>
+        <N F="448" T="s" V="Crate of Leather and Pelts"/>
+        <N F="449" T="s" V="Elder Gem Voucher"/>
+        <N F="450" T="s" V="Trunk of Tarnished Tints"/>
+        <N F="451" T="s" V="Outdoor Furniture Set"/>
+        <N F="452" T="s" V="Grail of Grove Essence"/>
+        <N F="453" T="s" V="Starloom Gloves"/>
+        <N F="454" T="s" V="Dreadsiege Steak"/>
+        <N F="455" T="s" V="Mud Ale"/>
+        <N F="456" T="s" V="Star-Comm Vitality Drink"/>
+        <N F="457" T="s" V="Officially Licensed Ultimate Protogames Juice"/>
+        <N F="458" T="s" V="Carnageknit Cloth"/>
+        <N F="459" T="s" V="Phagesilk Cloth"/>
+        <N F="460" T="s" V="Eldanweave Cloth"/>
+        <N F="461" T="s" V="The Skeech"/>
+        <N F="462" T="s" V="Star-Comm Station AMP Power Upgrade"/>
+        <N F="463" T="s" V="Inscription: Spectral Shift Rune Set"/>
+        <N F="465" T="s" V="Eldan Runic Module"/>
+        <N F="466" T="s" V="Gourd of War"/>
+        <N F="467" T="s" V="Logarithmic Helm Imprint"/>
+        <N F="468" T="s" V="Logarithmic Pauldron Imprint"/>
+        <N F="469" T="s" V="Logarithmic Chestplate Imprint"/>
+        <N F="470" T="s" V="Logarithmic Greaves Imprint"/>
+        <N F="471" T="s" V="Logarithmic Glove Imprint"/>
+        <N F="472" T="s" V="Logarithmic Boot Imprint"/>
+        <N F="482" T="s" V="Lucky Lopp Leg"/>
+        <N F="483" T="s" V="Algebraic Helm Imprint"/>
+        <N F="484" T="s" V="Algebraic Pauldron Imprint"/>
+        <N F="485" T="s" V="Algebraic Chestplate Imprint"/>
+        <N F="486" T="s" V="Algebraic Greaves Imprint"/>
+        <N F="487" T="s" V="Algebraic Glove Imprint"/>
+        <N F="488" T="s" V="Algebraic Boot Imprint"/>
+        <N F="489" T="s" V="Calculated Helm Imprint"/>
+        <N F="490" T="s" V="Calculated Pauldron Imprint"/>
+        <N F="491" T="s" V="Calculated Chestplate Imprint"/>
+        <N F="492" T="s" V="Calculated Greaves Imprint"/>
+        <N F="493" T="s" V="Calculated Glove Imprint"/>
+        <N F="494" T="s" V="Calculated Boot Imprint"/>
+        <N F="495" T="s" V="Appearance Modification Token"/>
+        <N F="496" T="s" V="Angry Avatus Attractor"/>
+        <N F="499" T="s" V="Malfunctioning Item"/>
+    </N>
+</Document>

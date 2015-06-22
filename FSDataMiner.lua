@@ -8,6 +8,7 @@ require "Window"
 -----------------------------------------------------------------------------------------------
 local FSDataMiner= {}
 local Utils = Apollo.GetPackage("SimpleUtils-1.0").tPackage
+local ZoneMap
 
 -----------------------------------------------------------------------------------------------
 -- FSDataMiner constants
@@ -25,6 +26,8 @@ local tDefaultSettings = {
     main = nil
   },
   zones = {
+  },
+  continents = {
   },
   itemTypes = {
   }
@@ -53,7 +56,6 @@ function FSDataMiner:new(o)
   return o
 end
 
-
 -----------------------------------------------------------------------------------------------
 -- FSDataMiner Init
 -----------------------------------------------------------------------------------------------
@@ -61,7 +63,8 @@ function FSDataMiner:Init()
   local bHasConfigureFunction = true
   local strConfigureButtonText = AddonName
   local tDependencies = {
-    -- "UnitOrPackageName",
+    "ZoneMap"
+    -- "ZoneMap",
   }
   Apollo.RegisterAddon(self, bHasConfigureFunction, strConfigureButtonText, tDependencies)
 
@@ -80,7 +83,7 @@ function FSDataMiner:OnLoad()
   Apollo.RegisterEventHandler("Generic_FSDataMiner", "OnToggleFSDataMiner", self)
   Apollo.RegisterEventHandler("InterfaceMenuListHasLoaded", "OnInterfaceMenuListHasLoaded", self)
 
-  Apollo.RegisterSlashCommand("sample", "OnSlashCommand", self)
+  Apollo.RegisterSlashCommand("dataminer", "OnSlashCommand", self)
 
   -- Events to track
   Apollo.RegisterEventHandler("SubZoneChanged", "OnZoneChanging", self)
@@ -127,6 +130,8 @@ function FSDataMiner:OnSlashCommand(cmd, params)
     self:OnToggleFSDataMiner()
   elseif args[1] == "defaults" then
     self:LoadDefaults()
+  elseif args[1] == "preload" then
+    self:PreLoadData()
   else
     Utils:cprint("FSDataMiner v" .. self.settings.version)
     Utils:cprint("Usage:  /dataminer <command>")
@@ -289,7 +294,36 @@ function FSDataMiner:AddItemType(item)
   self.settings.itemTypes[itemTypeID] = itemTypeName
 end
 
+function FSDataMiner:PreLoadData()
+  ZoneMap = Apollo.GetAddon("ZoneMap")
+  -- Load zones
+  for i=1,1000 do
+    local zone = ZoneMap.wndZoneMap:GetZoneInfo(i)
+    if zone ~= nil then
+      self.settings.zones[zone.id] = {
+        continentId = zone.continentId,
+        name = zone.strName
+      }
+    end
+  end
+  -- Load Continents
+  if not self.settings.continents then
+    self.settings.continents = {}
+  end
+  for i=1,1000 do
+    local continent = ZoneMap.wndZoneMap:GetContinentInfo(i)
+    if continent ~= nil and continent.id ~= nil then
+      self.settings.continents[continent.id] = continent.strName
+    end
+  end
 
+  for i=1,100000 do
+    local item = Item.GetDataFromId(i)
+    if item ~= nil then
+      self:AddItemType(item)
+    end
+  end
+end
 -----------------------------------------------------------------------------------------------
 -- FSDataMinerInstance
 -----------------------------------------------------------------------------------------------

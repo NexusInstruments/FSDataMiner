@@ -13,7 +13,7 @@ local ZoneMap
 -----------------------------------------------------------------------------------------------
 -- FSDataMiner constants
 -----------------------------------------------------------------------------------------------
-local Major, Minor, Patch, Suffix = 1, 0, 0, 0
+local Major, Minor, Patch, Suffix = 1, 1, 0, 0
 local AddonName = "FSDataMiner"
 local FSDataMiner_CURRENT_VERSION = string.format("%d.%d.%d", Major, Minor, Patch)
 

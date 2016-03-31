@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Addon Author="Chronosis" APIVersion="10" Name="FSDataMiner" Description="Data Collector">
+<Addon Author="Chronosis" APIVersion="12" Name="FSDataMiner" Description="Data Collector">
   <Script Name="libs\SimpleUtils\SimpleUtils-1.0.lua"/>
   <Script Name="FSDataMiner.lua"/>
   <Form Name="FSDataMiner.xml"/>

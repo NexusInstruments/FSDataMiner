@@ -272,14 +272,16 @@ end
 -----------------------------------------------------------------------------------------------
 -- FSDataMiner OnLootRollWon -- (For Winning Loot Roll) -- Hooked from NeedVsGreed
 -----------------------------------------------------------------------------------------------
-function FSDataMiner:OnLootRollWon(itemLooted, strWinner, bNeed)
+function FSDataMiner:OnLootRollWon(tLootInfo)--(itemLooted, strWinner, bNeed)
+  local itemInstance = tLootInfo.itemLoot
   self:AddItemType(itemInstance)
 end
 
 -----------------------------------------------------------------------------------------------
 -- FSDataMiner OnLootAssigned (MasterLooting)
 -----------------------------------------------------------------------------------------------
-function FSDataMiner:OnLootAssigned(itemInstance, strLooter)
+function FSDataMiner:OnLootAssigned(tLootInfo)--(itemInstance, strLooter)
+  local itemInstance = tLootInfo.itemLoot
   self:AddItemType(itemInstance)
 end
 
